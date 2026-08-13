@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-08-13",
+  "author": "DresdenGman",
+  "methodology": "Repository stars are current snapshot values, deduplicated by repository. Project repositories under direct control are excluded from upstream reach.",
+  "metrics": {
+    "merged_pull_requests": 16,
+    "merged_upstream_pull_requests": 13,
+    "merged_project_pull_requests": 3,
+    "unique_upstream_repositories": 12,
+    "unique_upstream_organizations": 11,
+    "deduplicated_upstream_repository_stars": 239304
+  },
+  "merged": [
+    {"repo":"argoproj/argo-cd","pr":29173,"merged_at":"2026-08-13T10:21:21Z","stars":23914,"files":1,"additions":1,"deletions":1,"category":"upstream","writeup":"writeups/upstream/argo-cd-29173.md"},
+    {"repo":"beeware/briefcase","pr":2939,"merged_at":"2026-07-29T01:59:52Z","stars":3333,"files":8,"additions":78,"deletions":38,"category":"upstream","writeup":"writeups/upstream/briefcase-2939.md"},
+    {"repo":"SALib/SALib","pr":678,"merged_at":"2026-07-17T02:43:49Z","stars":1003,"files":2,"additions":92,"deletions":12,"category":"upstream","writeup":"writeups/upstream/salib-678.md"},
+    {"repo":"huggingface/peft","pr":3417,"merged_at":"2026-07-14T12:13:13Z","stars":21541,"files":1,"additions":20,"deletions":1,"category":"upstream","writeup":"writeups/upstream/peft-3417.md"},
+    {"repo":"repowise-dev/repowise","pr":788,"merged_at":"2026-07-14T08:26:47Z","stars":5635,"files":2,"additions":64,"deletions":15,"category":"upstream","writeup":"writeups/upstream/repowise-788.md"},
+    {"repo":"Nixtla/statsforecast","pr":1175,"merged_at":"2026-07-13T23:23:59Z","stars":4867,"files":4,"additions":81,"deletions":5,"category":"upstream","writeup":"writeups/upstream/statsforecast-1175.md"},
+    {"repo":"Nixtla/statsforecast","pr":1176,"merged_at":"2026-07-11T21:50:45Z","stars":4867,"files":1,"additions":0,"deletions":0,"category":"upstream","writeup":"writeups/upstream/statsforecast-1176.md"},
+    {"repo":"fairlearn/fairlearn","pr":1674,"merged_at":"2026-07-11T00:56:06Z","stars":2268,"files":3,"additions":322,"deletions":0,"category":"upstream","writeup":"writeups/upstream/fairlearn-1674.md"},
+    {"repo":"scikit-learn-contrib/MAPIE","pr":953,"merged_at":"2026-07-10T07:20:13Z","stars":1578,"files":5,"additions":349,"deletions":0,"category":"upstream","writeup":"writeups/upstream/mapie-953.md"},
+    {"repo":"langgenius/dify","pr":38626,"merged_at":"2026-07-10T03:24:02Z","stars":152328,"files":1,"additions":6,"deletions":5,"category":"upstream","writeup":"writeups/upstream/dify-38626.md"},
+    {"repo":"networkx/networkx","pr":8735,"merged_at":"2026-07-07T01:05:13Z","stars":17190,"files":1,"additions":6,"deletions":0,"category":"upstream","writeup":"writeups/upstream/networkx-8735.md"},
+    {"repo":"koaning/scikit-lego","pr":805,"merged_at":"2026-07-05T20:18:29Z","stars":1408,"files":2,"additions":5,"deletions":2,"category":"upstream","writeup":"writeups/upstream/scikit-lego-805.md"},
+    {"repo":"Nixtla/neuralforecast","pr":1563,"merged_at":"2026-07-04T23:13:32Z","stars":4239,"files":2,"additions":121,"deletions":1,"category":"upstream","writeup":"writeups/upstream/neuralforecast-1563.md"},
+    {"repo":"dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-","pr":2,"merged_at":"2026-08-02T10:36:52Z","stars":1,"files":10,"additions":71,"deletions":15,"category":"project","writeup":"writeups/projects/gert-2.md"},
+    {"repo":"dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-","pr":3,"merged_at":"2026-08-02T11:55:39Z","stars":1,"files":2,"additions":235,"deletions":96,"category":"project","writeup":"writeups/projects/gert-3.md"},
+    {"repo":"dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-","pr":4,"merged_at":"2026-08-02T12:06:38Z","stars":1,"files":8,"additions":130,"deletions":28,"category":"project","writeup":"writeups/projects/gert-4.md"}
+  ]
+}
