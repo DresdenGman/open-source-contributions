@@ -70,7 +70,6 @@ Active work is intentionally not described as an accomplishment until it merges.
 | traceloop/openllmetry | [#4357](https://github.com/traceloop/openllmetry/pull/4357) | Open; CI passing |
 | benoitc/gunicorn | [#3665](https://github.com/benoitc/gunicorn/pull/3665) | Open; awaiting review |
 | awslabs/gluonts | [#3303](https://github.com/awslabs/gluonts/pull/3303) | Open; awaiting review |
-| microsoft/autogen | [#8009](https://github.com/microsoft/autogen/pull/8009) | Draft; CI passing |
 | PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; CI passing |
 | crewAIInc/crewAI | [#6985](https://github.com/crewAIInc/crewAI/pull/6985) | Open; initial review pending |
 
