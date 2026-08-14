@@ -31,7 +31,7 @@ Repository stars are contextual reach, not patch-level popularity.
 - Values naturally change over time; the snapshot date prevents false precision.
 - The portfolio never claims that a contribution earned or owns the repository's stars.
 
-For the August 13, 2026 snapshot, the 12 unique upstream repositories total **239,304 stars**.
+For the August 13, 2026 snapshot, the 13 unique upstream repositories total **244,818 stars**.
 
 ## Status definitions
 
