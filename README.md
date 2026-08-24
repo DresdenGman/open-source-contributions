@@ -8,14 +8,14 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Merged pull requests | **17** |
-| Merged upstream pull requests | **14** |
+| Merged pull requests | **18** |
+| Merged upstream pull requests | **15** |
 | Upstream repositories | **13** |
 | Upstream organizations | **12** |
-| Deduplicated upstream repository reach | **244,818 stars** |
+| Deduplicated upstream repository reach | **245,653 stars** |
 | Project-repository pull requests | **3** |
 
-Stars are current repository-level context, measured on **August 13, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
+Stars are current repository-level context, measured on **August 19, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
 
 ## Selected contributions
 
@@ -32,6 +32,7 @@ Stars are current repository-level context, measured on **August 13, 2026**, and
 
 | Date | Repository | Pull request | Scope | Writeup |
 | --- | --- | --- | ---: | --- |
+| 2026-08-17 | fairlearn/fairlearn | [#1673](https://github.com/fairlearn/fairlearn/pull/1673) | 2 files, +6/−6 | [Read](writeups/upstream/fairlearn-1673.md) |
 | 2026-08-13 | ag2ai/faststream | [#3015](https://github.com/ag2ai/faststream/pull/3015) | 4 files, +55/−1 | [Read](writeups/upstream/faststream-3015.md) |
 | 2026-08-13 | argoproj/argo-cd | [#29173](https://github.com/argoproj/argo-cd/pull/29173) | 1 file, +1/−1 | [Read](writeups/upstream/argo-cd-29173.md) |
 | 2026-07-29 | beeware/briefcase | [#2939](https://github.com/beeware/briefcase/pull/2939) | 8 files, +78/−38 | [Read](writeups/upstream/briefcase-2939.md) |
@@ -59,19 +60,19 @@ These merged pull requests belong to a project repository under direct control, 
 
 ## Active pipeline
 
-Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **August 13, 2026**.
+Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **August 24, 2026**.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
 | anthropics/claude-agent-sdk-python | [#1114](https://github.com/anthropics/claude-agent-sdk-python/pull/1114) | Open; awaiting upstream direction |
 | skops-dev/skops | [#521](https://github.com/skops-dev/skops/pull/521) | Open; CI passing |
-| fairlearn/fairlearn | [#1673](https://github.com/fairlearn/fairlearn/pull/1673) | Open; approved, checks pending |
 | sympy/sympy | [#30018](https://github.com/sympy/sympy/pull/30018) | Open; checks pending |
 | traceloop/openllmetry | [#4357](https://github.com/traceloop/openllmetry/pull/4357) | Open; CI passing |
-| benoitc/gunicorn | [#3665](https://github.com/benoitc/gunicorn/pull/3665) | Open; awaiting review |
 | awslabs/gluonts | [#3303](https://github.com/awslabs/gluonts/pull/3303) | Open; awaiting review |
 | PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; CI passing |
 | crewAIInc/crewAI | [#6985](https://github.com/crewAIInc/crewAI/pull/6985) | Open; initial review pending |
+
+Gunicorn #3665 was closed without merge in favor of maintainer PR #3686. It is intentionally excluded from both the active and merged tables.
 
 ## How to read this repository
 
