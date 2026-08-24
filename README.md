@@ -12,10 +12,10 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 | Merged upstream pull requests | **15** |
 | Upstream repositories | **13** |
 | Upstream organizations | **12** |
-| Deduplicated upstream repository reach | **245,653 stars** |
+| Deduplicated upstream repository reach | **246,430 stars** |
 | Project-repository pull requests | **3** |
 
-Stars are current repository-level context, measured on **August 19, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
+Stars are current repository-level context, measured on **August 24, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
 
 ## Selected contributions
 
@@ -71,6 +71,7 @@ Active work is intentionally not described as an accomplishment until it merges.
 | awslabs/gluonts | [#3303](https://github.com/awslabs/gluonts/pull/3303) | Open; awaiting review |
 | PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; CI passing |
 | crewAIInc/crewAI | [#6985](https://github.com/crewAIInc/crewAI/pull/6985) | Open; initial review pending |
+| wagtail/wagtail | [#14560](https://github.com/wagtail/wagtail/pull/14560) | Open; local validation passed; CI pending |
 
 Gunicorn #3665 was closed without merge in favor of maintainer PR #3686. It is intentionally excluded from both the active and merged tables.
 
