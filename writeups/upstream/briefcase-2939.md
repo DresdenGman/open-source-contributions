@@ -20,7 +20,7 @@ The first review also pointed out that adding configuration without actually ena
 
 Pre-commit and upstream CI exposed formatting, pinning, permissions, and workflow-routing problems during development. The final merged state satisfied zizmor and the repository's checks.
 
-This work demonstrated that security tooling should guide a threat-model review, not become a checkbox exercise. Least privilege must still preserve required behavior, reusable workflow permissions need to be understood at call boundaries, and an installed scanner has no value unless contributors actually run it. The PR transparently disclosed AI assistance under BeeWare's contribution policy.
+This work demonstrated that security tooling should guide a threat-model review, not become a checkbox exercise. Least privilege must still preserve required behavior, reusable workflow permissions need to be understood at call boundaries, and an installed scanner has no value unless contributors actually run it.
 
 ## Evidence
 

@@ -80,6 +80,6 @@ Gunicorn #3665 was closed without merge in favor of maintainer PR #3686. It is i
 - `writeups/upstream/` contains independently merged open-source contributions.
 - `writeups/projects/` contains merged work in project repositories under direct control.
 - `data/contributions.json` is the machine-readable public snapshot used to audit the tables.
-- `METHODOLOGY.md` defines inclusion, star-counting, evidence, and AI-assistance policies.
+- `METHODOLOGY.md` defines inclusion, star-counting, and evidence policies.
 
 The goal is not to maximize a line count. It is to show how small fixes, numerical edge cases, API decisions, testing improvements, documentation, and CI security work moved from investigation through maintainer review into merged software.

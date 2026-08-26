@@ -14,7 +14,7 @@ Before implementation, I also confirmed that the issue was unassigned and had no
 
 ## Implementation and validation
 
-The absolute `stable/user-guide` URL was replaced by the relative operator-manual path. A relative link is more resilient across preview, stable, and release documentation builds. The signed commit followed Argo's DCO requirement, and the PR disclosed AI assistance in issue discovery and workflow checking.
+The absolute `stable/user-guide` URL was replaced by the relative operator-manual path. A relative link is more resilient across preview, stable, and release documentation builds. The signed commit followed Argo's DCO requirement.
 
 Local checks confirmed the target existed, the obsolete URL disappeared from the edited page, and the diff had no whitespace errors. Upstream DCO, documentation preview, title, generated-code, security, and workflow checks passed.
 

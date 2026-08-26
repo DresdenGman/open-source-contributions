@@ -55,7 +55,3 @@ Canonical writeups describe:
 - primary evidence.
 
 The narrative distinguishes the initial proposal from the final merged design. Reviewer-authored changes are credited rather than represented as solely contributor-authored work.
-
-## AI-assistance policy
-
-AI tools may assist with discovery, code navigation, drafting, mechanical edits, or test execution when permitted by the upstream project. Repository-specific disclosure rules take precedence. Public writeups do not contain private prompts, credentials, email, or unpublished conversations. The contributor remains responsible for validating and submitting every represented contribution.
