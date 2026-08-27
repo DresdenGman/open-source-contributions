@@ -8,14 +8,14 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Merged pull requests | **18** |
-| Merged upstream pull requests | **15** |
-| Upstream repositories | **13** |
-| Upstream organizations | **12** |
-| Deduplicated upstream repository reach | **246,430 stars** |
+| Merged pull requests | **19** |
+| Merged upstream pull requests | **16** |
+| Upstream repositories | **14** |
+| Upstream organizations | **13** |
+| Deduplicated upstream repository reach | **246,835 stars** |
 | Project-repository pull requests | **3** |
 
-Stars are current repository-level context, measured on **August 24, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
+Stars are current repository-level context, measured on **August 27, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
 
 ## Selected contributions
 
@@ -32,6 +32,7 @@ Stars are current repository-level context, measured on **August 24, 2026**, and
 
 | Date | Repository | Pull request | Scope | Writeup |
 | --- | --- | --- | ---: | --- |
+| 2026-08-27 | ronsse/trellis-ai | [#352](https://github.com/ronsse/trellis-ai/pull/352) | 2 files, +36/−1 | [Read](writeups/upstream/trellis-ai-352.md) |
 | 2026-08-17 | fairlearn/fairlearn | [#1673](https://github.com/fairlearn/fairlearn/pull/1673) | 2 files, +6/−6 | [Read](writeups/upstream/fairlearn-1673.md) |
 | 2026-08-13 | ag2ai/faststream | [#3015](https://github.com/ag2ai/faststream/pull/3015) | 4 files, +55/−1 | [Read](writeups/upstream/faststream-3015.md) |
 | 2026-08-13 | argoproj/argo-cd | [#29173](https://github.com/argoproj/argo-cd/pull/29173) | 1 file, +1/−1 | [Read](writeups/upstream/argo-cd-29173.md) |
@@ -60,7 +61,7 @@ These merged pull requests belong to a project repository under direct control, 
 
 ## Active pipeline
 
-Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **August 24, 2026**.
+Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **August 27, 2026**.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
@@ -70,10 +71,8 @@ Active work is intentionally not described as an accomplishment until it merges.
 | traceloop/openllmetry | [#4357](https://github.com/traceloop/openllmetry/pull/4357) | Open; CI passing |
 | awslabs/gluonts | [#3303](https://github.com/awslabs/gluonts/pull/3303) | Open; awaiting review |
 | PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; CI passing |
-| crewAIInc/crewAI | [#6985](https://github.com/crewAIInc/crewAI/pull/6985) | Open; initial review pending |
-| wagtail/wagtail | [#14560](https://github.com/wagtail/wagtail/pull/14560) | Open; local validation passed; CI pending |
 
-Gunicorn #3665 was closed without merge in favor of maintainer PR #3686. It is intentionally excluded from both the active and merged tables.
+CrewAI #6985 was closed as a duplicate. Wagtail #14560 was closed unmerged, although its maintainer integrated the work in upstream commit `9d18b2e` and credited DresdenGman in the release notes. Gunicorn #3665 was closed in favor of maintainer PR #3686. These lines are intentionally excluded from both the active and merged tables.
 
 ## How to read this repository
 
