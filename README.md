@@ -72,7 +72,7 @@ Active work is intentionally not described as an accomplishment until it merges.
 | awslabs/gluonts | [#3303](https://github.com/awslabs/gluonts/pull/3303) | Open; awaiting review |
 | PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; CI passing |
 | Nixtla/statsforecast | [#1222](https://github.com/Nixtla/statsforecast/pull/1222) | Open; one Windows runner failure (infrastructure) |
-| SALib/SALib | [#685](https://github.com/SALib/SALib/pull/685) | Open; initial CI running |
+| SALib/SALib | [#685](https://github.com/SALib/SALib/pull/685) | Open; one unrelated stochastic CI failure, maintainer rerun needed |
 
 CrewAI #6985 was closed as a duplicate. Wagtail #14560 was closed unmerged, although its maintainer integrated the work in upstream commit `9d18b2e` and credited DresdenGman in the release notes. Gunicorn #3665 was closed in favor of maintainer PR #3686. These lines are intentionally excluded from both the active and merged tables.
 
