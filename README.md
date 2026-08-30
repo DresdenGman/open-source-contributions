@@ -8,12 +8,12 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Merged pull requests | **19** |
+| Merged pull requests | **20** |
 | Merged upstream pull requests | **16** |
 | Upstream repositories | **14** |
 | Upstream organizations | **13** |
 | Deduplicated upstream repository reach | **246,835 stars** |
-| Project-repository pull requests | **3** |
+| Project-repository pull requests | **4** |
 
 Stars are current repository-level context, measured on **August 27, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
 
@@ -42,7 +42,6 @@ Stars are current repository-level context, measured on **August 27, 2026**, and
 | 2026-07-14 | repowise-dev/repowise | [#788](https://github.com/repowise-dev/repowise/pull/788) | 2 files, +64/−15 | [Read](writeups/upstream/repowise-788.md) |
 | 2026-07-13 | Nixtla/statsforecast | [#1175](https://github.com/Nixtla/statsforecast/pull/1175) | 4 files, +81/−5 | [Read](writeups/upstream/statsforecast-1175.md) |
 | 2026-07-11 | Nixtla/statsforecast | [#1176](https://github.com/Nixtla/statsforecast/pull/1176) | 1 marker file | [Read](writeups/upstream/statsforecast-1176.md) |
-| 2026-07-11 | fairlearn/fairlearn | [#1674](https://github.com/fairlearn/fairlearn/pull/1674) | 3 files, +322 | [Read](writeups/upstream/fairlearn-1674.md) |
 | 2026-07-10 | scikit-learn-contrib/MAPIE | [#953](https://github.com/scikit-learn-contrib/MAPIE/pull/953) | 5 files, +349 | [Read](writeups/upstream/mapie-953.md) |
 | 2026-07-10 | langgenius/dify | [#38626](https://github.com/langgenius/dify/pull/38626) | 1 file, +6/−5 | [Read](writeups/upstream/dify-38626.md) |
 | 2026-07-07 | networkx/networkx | [#8735](https://github.com/networkx/networkx/pull/8735) | 1 file, +6 | [Read](writeups/upstream/networkx-8735.md) |
@@ -58,10 +57,11 @@ These merged pull requests belong to a project repository under direct control, 
 | [GERT #2](https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/2) | Separate model and load provenance | [Read](writeups/projects/gert-2.md) |
 | [GERT #3](https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/3) | Use authenticated official ERCOT load API | [Read](writeups/projects/gert-3.md) |
 | [GERT #4](https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/4) | Add official adequacy-capacity context | [Read](writeups/projects/gert-4.md) |
+| [EPSILON #10](https://github.com/DresdenGman/EPSILON-trading-simulator/pull/10) | Harden the public decision-lab release | [Read](writeups/projects/epsilon-10.md) |
 
 ## Active pipeline
 
-Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **August 29, 2026**.
+Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **August 30, 2026**.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
