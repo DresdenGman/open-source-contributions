@@ -8,14 +8,14 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Merged pull requests | **20** |
+| Merged pull requests | **21** |
 | Merged upstream pull requests | **16** |
 | Upstream repositories | **14** |
 | Upstream organizations | **13** |
 | Deduplicated upstream repository reach | **246,835 stars** |
-| Project-repository pull requests | **4** |
+| Project-repository pull requests | **5** |
 
-Stars are current repository-level context, measured on **August 27, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
+Stars are current repository-level context, measured on **September 3, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
 
 ## Selected contributions
 
@@ -57,15 +57,15 @@ These merged pull requests belong to a project repository under direct control, 
 | [GERT #2](https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/2) | Separate model and load provenance | [Read](writeups/projects/gert-2.md) |
 | [GERT #3](https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/3) | Use authenticated official ERCOT load API | [Read](writeups/projects/gert-3.md) |
 | [GERT #4](https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/4) | Add official adequacy-capacity context | [Read](writeups/projects/gert-4.md) |
+| [EPSILON #15](https://github.com/DresdenGman/EPSILON-trading-simulator/pull/15) | Make public evidence metrics verifiable | [Read](writeups/projects/epsilon-15.md) |
 | [EPSILON #10](https://github.com/DresdenGman/EPSILON-trading-simulator/pull/10) | Harden the public decision-lab release | [Read](writeups/projects/epsilon-10.md) |
 
 ## Active pipeline
 
-Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **August 30, 2026**.
+Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **September 3, 2026**.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
-| anthropics/claude-agent-sdk-python | [#1114](https://github.com/anthropics/claude-agent-sdk-python/pull/1114) | Open; awaiting upstream direction |
 | skops-dev/skops | [#521](https://github.com/skops-dev/skops/pull/521) | Open; CI passing |
 | sympy/sympy | [#30018](https://github.com/sympy/sympy/pull/30018) | Open; checks pending |
 | traceloop/openllmetry | [#4357](https://github.com/traceloop/openllmetry/pull/4357) | Open; CI passing |

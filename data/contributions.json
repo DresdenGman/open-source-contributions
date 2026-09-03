@@ -1,17 +1,18 @@
 {
   "schema_version": 1,
-  "snapshot_date": "2026-08-27",
+  "snapshot_date": "2026-09-03",
   "author": "DresdenGman",
   "methodology": "Repository stars are current snapshot values, deduplicated by repository. Project repositories under direct control are excluded from upstream reach.",
   "metrics": {
-    "merged_pull_requests": 20,
+    "merged_pull_requests": 21,
     "merged_upstream_pull_requests": 16,
-    "merged_project_pull_requests": 4,
+    "merged_project_pull_requests": 5,
     "unique_upstream_repositories": 14,
     "unique_upstream_organizations": 13,
     "deduplicated_upstream_repository_stars": 246835
   },
   "merged": [
+    {"repo":"DresdenGman/EPSILON-trading-simulator","pr":15,"merged_at":"2026-09-02T02:37:19Z","stars":33,"files":22,"additions":618,"deletions":86,"category":"project","writeup":"writeups/projects/epsilon-15.md"},
     {"repo":"ronsse/trellis-ai","pr":352,"merged_at":"2026-08-27T15:32:10Z","stars":4,"files":2,"additions":36,"deletions":1,"category":"upstream","writeup":"writeups/upstream/trellis-ai-352.md"},
     {"repo":"fairlearn/fairlearn","pr":1673,"merged_at":"2026-08-17T03:27:29Z","stars":2277,"files":2,"additions":6,"deletions":6,"category":"upstream","writeup":"writeups/upstream/fairlearn-1673.md"},
     {"repo":"ag2ai/faststream","pr":3015,"merged_at":"2026-08-13T17:48:31Z","stars":5318,"files":4,"additions":55,"deletions":1,"category":"upstream","writeup":"writeups/upstream/faststream-3015.md"},
@@ -28,7 +29,7 @@
     {"repo":"networkx/networkx","pr":8735,"merged_at":"2026-07-07T01:05:13Z","stars":17228,"files":1,"additions":6,"deletions":0,"category":"upstream","writeup":"writeups/upstream/networkx-8735.md"},
     {"repo":"koaning/scikit-lego","pr":805,"merged_at":"2026-07-05T20:18:29Z","stars":1407,"files":2,"additions":5,"deletions":2,"category":"upstream","writeup":"writeups/upstream/scikit-lego-805.md"},
     {"repo":"Nixtla/neuralforecast","pr":1563,"merged_at":"2026-07-04T23:13:32Z","stars":4258,"files":2,"additions":121,"deletions":1,"category":"upstream","writeup":"writeups/upstream/neuralforecast-1563.md"},
-    {"repo":"DresdenGman/EPSILON-trading-simulator","pr":10,"merged_at":"2026-08-30T08:10:36Z","stars":20,"files":22,"additions":1023,"deletions":802,"category":"project","writeup":"writeups/projects/epsilon-10.md"},
+    {"repo":"DresdenGman/EPSILON-trading-simulator","pr":10,"merged_at":"2026-08-30T08:10:36Z","stars":33,"files":22,"additions":1023,"deletions":802,"category":"project","writeup":"writeups/projects/epsilon-10.md"},
     {"repo":"dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-","pr":2,"merged_at":"2026-08-02T10:36:52Z","stars":1,"files":10,"additions":71,"deletions":15,"category":"project","writeup":"writeups/projects/gert-2.md"},
     {"repo":"dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-","pr":3,"merged_at":"2026-08-02T11:55:39Z","stars":1,"files":2,"additions":235,"deletions":96,"category":"project","writeup":"writeups/projects/gert-3.md"},
     {"repo":"dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-","pr":4,"merged_at":"2026-08-02T12:06:38Z","stars":1,"files":8,"additions":130,"deletions":28,"category":"project","writeup":"writeups/projects/gert-4.md"}
