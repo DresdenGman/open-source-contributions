@@ -8,20 +8,21 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Merged pull requests | **21** |
-| Merged upstream pull requests | **16** |
+| Merged pull requests | **24** |
+| Merged upstream pull requests | **19** |
 | Upstream repositories | **14** |
 | Upstream organizations | **13** |
-| Deduplicated upstream repository reach | **246,835 stars** |
+| Deduplicated upstream repository reach | **250,602 stars** |
 | Project-repository pull requests | **5** |
 
-Stars are current repository-level context, measured on **September 3, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
+Stars are current repository-level context, measured on **September 20, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
 
 ## Selected contributions
 
 | Repository | Contribution | Engineering signal | Outcome |
 | --- | --- | --- | --- |
-| [Dify](https://github.com/langgenius/dify) | [Replace patched logger assertions with `caplog`](writeups/upstream/dify-38626.md) | Test design and scope verification in a 152k-star codebase | Merged |
+| [SALib](https://github.com/SALib/SALib) | [Implement Goda Shapley effects estimation](writeups/upstream/salib-686.md) | Research translation, statistical API design, validation, documentation and maintainer optimization | Merged |
+| [Dify](https://github.com/langgenius/dify) | [Replace patched logger assertions with `caplog`](writeups/upstream/dify-38626.md) | Test design and scope verification in a 156k-star codebase | Merged |
 | [Fairlearn](https://github.com/fairlearn/fairlearn) | [Auto-detect `MetricFrame` confidence intervals](writeups/upstream/fairlearn-1674.md) | Public-API design, plotting integration, edge-case tests | Merged |
 | [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) | [Add AUROC/AUARC uncertainty metrics](writeups/upstream/mapie-953.md) | Statistical APIs, validation, documentation and review iteration | Merged |
 | [NeuralForecast](https://github.com/Nixtla/neuralforecast) | [Implement FreDF loss](writeups/upstream/neuralforecast-1563.md) | Frequency-domain loss implementation and regression tests | Merged |
@@ -32,6 +33,9 @@ Stars are current repository-level context, measured on **September 3, 2026**, a
 
 | Date | Repository | Pull request | Scope | Writeup |
 | --- | --- | --- | ---: | --- |
+| 2026-09-18 | SALib/SALib | [#686](https://github.com/SALib/SALib/pull/686) | 11 files, +659 | [Read](writeups/upstream/salib-686.md) |
+| 2026-09-18 | SALib/SALib | [#688](https://github.com/SALib/SALib/pull/688) | 1 file, +2/−1 | [Read](writeups/upstream/salib-688.md) |
+| 2026-09-18 | SALib/SALib | [#685](https://github.com/SALib/SALib/pull/685) | 1 file, +1/−1 | [Read](writeups/upstream/salib-685.md) |
 | 2026-08-27 | ronsse/trellis-ai | [#352](https://github.com/ronsse/trellis-ai/pull/352) | 2 files, +36/−1 | [Read](writeups/upstream/trellis-ai-352.md) |
 | 2026-08-17 | fairlearn/fairlearn | [#1673](https://github.com/fairlearn/fairlearn/pull/1673) | 2 files, +6/−6 | [Read](writeups/upstream/fairlearn-1673.md) |
 | 2026-08-13 | ag2ai/faststream | [#3015](https://github.com/ag2ai/faststream/pull/3015) | 4 files, +55/−1 | [Read](writeups/upstream/faststream-3015.md) |
@@ -62,17 +66,15 @@ These merged pull requests belong to a project repository under direct control, 
 
 ## Active pipeline
 
-Active work is intentionally not described as an accomplishment until it merges. Statuses below were last reconciled on **September 3, 2026**.
+Active work is intentionally not described as an accomplishment until it merges. These three open upstream PRs were last reconciled on **September 20, 2026**.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
-| skops-dev/skops | [#521](https://github.com/skops-dev/skops/pull/521) | Open; CI passing |
-| sympy/sympy | [#30018](https://github.com/sympy/sympy/pull/30018) | Open; checks pending |
-| traceloop/openllmetry | [#4357](https://github.com/traceloop/openllmetry/pull/4357) | Open; CI passing |
-| awslabs/gluonts | [#3303](https://github.com/awslabs/gluonts/pull/3303) | Open; awaiting review |
-| PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; CI passing |
-| Nixtla/statsforecast | [#1222](https://github.com/Nixtla/statsforecast/pull/1222) | Open; one Windows runner failure (infrastructure) |
-| SALib/SALib | [#685](https://github.com/SALib/SALib/pull/685) | Open; one unrelated stochastic CI failure, maintainer rerun needed |
+| sympy/sympy | [#30018](https://github.com/sympy/sympy/pull/30018) | Open; CI passing; awaiting review |
+| PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; mergeable; CLA passing; awaiting human review |
+| Nixtla/statsforecast | [#1239](https://github.com/Nixtla/statsforecast/pull/1239) | Open; MFLES fallback scale fix; all 57 reported checks passing or skipped; awaiting review |
+
+On September 13, skops #521, OpenLLMetry #4357 and GluonTS #3303 were closed unmerged after extended periods without human review. Their code and discussion history are retained; they are not counted as merged contributions. StatsForecast #1222 was closed unmerged after upstream #1224 supplied the same validation change. Local StatsForecast investigations #1235 and #911 are not submitted PRs or merged accomplishments.
 
 CrewAI #6985 was closed as a duplicate. Wagtail #14560 was closed unmerged, although its maintainer integrated the work in upstream commit `9d18b2e` and credited DresdenGman in the release notes. Gunicorn #3665 was closed in favor of maintainer PR #3686. These lines are intentionally excluded from both the active and merged tables.
 
