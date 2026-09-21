@@ -70,7 +70,7 @@ Active work is intentionally not described as an accomplishment until it merges.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
-| SALib/SALib | [#694](https://github.com/SALib/SALib/pull/694) | Open; retained Morris bootstrap-resample support; CI running; awaiting review |
+| SALib/SALib | [#694](https://github.com/SALib/SALib/pull/694) | Open; retained Morris bootstrap-resample support; all five checks passing; awaiting review |
 | SALib/SALib | [#693](https://github.com/SALib/SALib/pull/693) | Open; non-finite Morris-design guard; all five checks passing; awaiting review |
 | Nixtla/statsforecast | [#1241](https://github.com/Nixtla/statsforecast/pull/1241) | Open; fixed-theta API; all 57 reported checks passing or skipped; awaiting review |
 | Nixtla/statsforecast | [#1240](https://github.com/Nixtla/statsforecast/pull/1240) | Open; AutoTheta configuration-preservation fix; all 57 reported checks passing or skipped; awaiting review |
