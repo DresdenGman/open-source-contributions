@@ -8,7 +8,7 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Merged pull requests | **24** |
+| Documented merged pull requests | **24** |
 | Merged upstream pull requests | **19** |
 | Upstream repositories | **14** |
 | Upstream organizations | **13** |
@@ -46,6 +46,7 @@ Stars are current repository-level context, measured on **September 20, 2026**, 
 | 2026-07-14 | repowise-dev/repowise | [#788](https://github.com/repowise-dev/repowise/pull/788) | 2 files, +64/−15 | [Read](writeups/upstream/repowise-788.md) |
 | 2026-07-13 | Nixtla/statsforecast | [#1175](https://github.com/Nixtla/statsforecast/pull/1175) | 4 files, +81/−5 | [Read](writeups/upstream/statsforecast-1175.md) |
 | 2026-07-11 | Nixtla/statsforecast | [#1176](https://github.com/Nixtla/statsforecast/pull/1176) | 1 marker file | [Read](writeups/upstream/statsforecast-1176.md) |
+| 2026-07-11 | fairlearn/fairlearn | [#1674](https://github.com/fairlearn/fairlearn/pull/1674) | 3 files, +322/−0 | [Read](writeups/upstream/fairlearn-1674.md) |
 | 2026-07-10 | scikit-learn-contrib/MAPIE | [#953](https://github.com/scikit-learn-contrib/MAPIE/pull/953) | 5 files, +349 | [Read](writeups/upstream/mapie-953.md) |
 | 2026-07-10 | langgenius/dify | [#38626](https://github.com/langgenius/dify/pull/38626) | 1 file, +6/−5 | [Read](writeups/upstream/dify-38626.md) |
 | 2026-07-07 | networkx/networkx | [#8735](https://github.com/networkx/networkx/pull/8735) | 1 file, +6 | [Read](writeups/upstream/networkx-8735.md) |
