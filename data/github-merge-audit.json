@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-09",
+  "timezone": "America/Los_Angeles",
+  "merged": [
+    {
+      "repo": "SALib/SALib",
+      "pr": 693,
+      "url": "https://github.com/SALib/SALib/pull/693",
+      "title": "Fix non-finite Morris samples for unbounded distributions",
+      "merged_at": "2026-10-10T00:27:08Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 6,
+      "url": "https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/pull/6",
+      "title": "Add tail-sample diagnostics and restore frontend dependency checks",
+      "merged_at": "2026-10-03T23:33:02Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/AIGlasses_for_navigation",
+      "pr": 2,
+      "url": "https://github.com/DresdenGman/AIGlasses_for_navigation/pull/2",
+      "title": "Keep green-light observations informational and reject invalid distances",
+      "merged_at": "2026-10-03T23:33:00Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 34,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/34",
+      "title": "Add reproducible synthetic winner-selection teaching lab",
+      "merged_at": "2026-10-03T23:32:58Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 33,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/33",
+      "title": "Triage fourth private participation submission",
+      "merged_at": "2026-09-25T13:54:35Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 31,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/31",
+      "title": "Document feedback-led activity corrections",
+      "merged_at": "2026-09-25T13:41:34Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 29,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/29",
+      "title": "Restore visual-first README with current screenshots and two video tours",
+      "merged_at": "2026-09-19T01:26:41Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 28,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/28",
+      "title": "Present EPSILON project overview, verified recognition, and participation paths",
+      "merged_at": "2026-09-19T01:14:45Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/AIGlasses_for_navigation",
+      "pr": 1,
+      "url": "https://github.com/DresdenGman/AIGlasses_for_navigation/pull/1",
+      "title": "Upgrade: reproducible AI glasses prototype",
+      "merged_at": "2026-09-18T23:17:07Z",
+      "category": "project"
+    },
+    {
+      "repo": "SALib/SALib",
+      "pr": 686,
+      "url": "https://github.com/SALib/SALib/pull/686",
+      "title": "Add Goda Shapley effects method",
+      "merged_at": "2026-09-18T23:00:06Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "SALib/SALib",
+      "pr": 688,
+      "url": "https://github.com/SALib/SALib/pull/688",
+      "title": "Seed the delta SVM regression test",
+      "merged_at": "2026-09-18T22:19:51Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "SALib/SALib",
+      "pr": 685,
+      "url": "https://github.com/SALib/SALib/pull/685",
+      "title": "Seed the discrepancy test sample",
+      "merged_at": "2026-09-18T22:19:39Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 27,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/27",
+      "title": "Finish English-only repository homepage presentation",
+      "merged_at": "2026-09-13T21:21:11Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 26,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/26",
+      "title": "Make current repository text and desktop UI English-only",
+      "merged_at": "2026-09-13T21:15:31Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 25,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/25",
+      "title": "Clarify community participation and case evidence boundaries",
+      "merged_at": "2026-09-13T10:11:29Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 24,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/24",
+      "title": "Make the current instrument reproducible and traceable",
+      "merged_at": "2026-09-13T09:00:35Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 15,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/15",
+      "title": "fix(data): verify public evidence metrics",
+      "merged_at": "2026-09-02T02:37:19Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 14,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/14",
+      "title": "fix(data): protect the public historical adapter",
+      "merged_at": "2026-08-31T05:07:09Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 12,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/12",
+      "title": "fix(metrics): make public snapshot automation reliable",
+      "merged_at": "2026-08-31T05:00:19Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 11,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/11",
+      "title": "feat(impact): launch verifiable external validation system",
+      "merged_at": "2026-08-31T04:57:31Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 1,
+      "url": "https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/pull/1",
+      "title": "Release evidence-first GERT product",
+      "merged_at": "2026-08-31T00:31:08Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 10,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/10",
+      "title": "feat(product): harden the public release",
+      "merged_at": "2026-08-30T08:10:36Z",
+      "category": "project"
+    },
+    {
+      "repo": "ronsse/trellis-ai",
+      "pr": 352,
+      "url": "https://github.com/ronsse/trellis-ai/pull/352",
+      "title": "fix(mcp): document save_experience trace schema",
+      "merged_at": "2026-08-27T15:32:10Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "argoproj/argo-cd",
+      "pr": 29173,
+      "url": "https://github.com/argoproj/argo-cd/pull/29173",
+      "title": "docs: fix config management plugin link (#29172)",
+      "merged_at": "2026-08-13T10:21:21Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 9,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/9",
+      "title": "feat(growth): add public impact ledger",
+      "merged_at": "2026-08-13T10:15:07Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 2,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/2",
+      "title": "Build EPSILON Quantitative Decision Lab",
+      "merged_at": "2026-08-13T08:18:05Z",
+      "category": "project"
+    },
+    {
+      "repo": "fairlearn/fairlearn",
+      "pr": 1673,
+      "url": "https://github.com/fairlearn/fairlearn/pull/1673",
+      "title": "MNT: clarify fitted-state check in adversarial mitigation",
+      "merged_at": "2026-08-17T03:27:29Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "ag2ai/faststream",
+      "pr": 3015,
+      "url": "https://github.com/ag2ai/faststream/pull/3015",
+      "title": "feat(redis): add StreamSub declare option",
+      "merged_at": "2026-08-13T17:48:31Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 6,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/6",
+      "title": "docs(growth): add communication pack",
+      "merged_at": "2026-08-13T09:03:52Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 5,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/5",
+      "title": "docs(readme): add product visuals",
+      "merged_at": "2026-08-13T08:54:02Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 4,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/4",
+      "title": "docs(growth): polish product video",
+      "merged_at": "2026-08-13T08:44:25Z",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 3,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/3",
+      "title": "docs(growth): add 30-second product video",
+      "merged_at": "2026-08-13T08:29:47Z",
+      "category": "project"
+    },
+    {
+      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 4,
+      "url": "https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/4",
+      "title": "feat(ercot): use official adequacy capacity context",
+      "merged_at": "2026-08-02T12:06:38Z",
+      "category": "project"
+    },
+    {
+      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 3,
+      "url": "https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/3",
+      "title": "feat(ercot): use authenticated official load API",
+      "merged_at": "2026-08-02T11:55:39Z",
+      "category": "project"
+    },
+    {
+      "repo": "beeware/briefcase",
+      "pr": 2939,
+      "url": "https://github.com/beeware/briefcase/pull/2939",
+      "title": "Add zizmor pre-commit hook and fix all reported GHA security issues",
+      "merged_at": "2026-07-29T01:59:52Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "SALib/SALib",
+      "pr": 678,
+      "url": "https://github.com/SALib/SALib/pull/678",
+      "title": "Fix Sobol analysis for partially constant multi-output columns",
+      "merged_at": "2026-07-17T02:43:49Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "huggingface/peft",
+      "pr": 3417,
+      "url": "https://github.com/huggingface/peft/pull/3417",
+      "title": "Improve IA3 documentation: add usage guidance, module selection tips, and LoRA comparison",
+      "merged_at": "2026-07-14T12:13:13Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "repowise-dev/repowise",
+      "pr": 788,
+      "url": "https://github.com/repowise-dev/repowise/pull/788",
+      "title": "feat(codex): deliver architectural decisions into Codex SessionStart",
+      "merged_at": "2026-07-14T08:26:47Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1175,
+      "url": "https://github.com/Nixtla/statsforecast/pull/1175",
+      "title": "[FEAT] Add conformal_error prediction intervals method",
+      "merged_at": "2026-07-13T23:23:59Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1176,
+      "url": "https://github.com/Nixtla/statsforecast/pull/1176",
+      "title": "Add py.typed marker",
+      "merged_at": "2026-07-11T21:50:45Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "fairlearn/fairlearn",
+      "pr": 1674,
+      "url": "https://github.com/fairlearn/fairlearn/pull/1674",
+      "title": "ENH auto-detect built-in CI in plot_metric_frame",
+      "merged_at": "2026-07-11T00:56:06Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "scikit-learn-contrib/MAPIE",
+      "pr": 953,
+      "url": "https://github.com/scikit-learn-contrib/MAPIE/pull/953",
+      "title": "add aucroc_score and auarc_score uncertainty metrics",
+      "merged_at": "2026-07-10T07:20:13Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "langgenius/dify",
+      "pr": 38626,
+      "url": "https://github.com/langgenius/dify/pull/38626",
+      "title": "chore: Replace @patch logger.warning with caplog fixture in credit_pool_service test",
+      "merged_at": "2026-07-10T03:24:02Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "networkx/networkx",
+      "pr": 8735,
+      "url": "https://github.com/networkx/networkx/pull/8735",
+      "title": "Warn when PageRank convergence check is ineffective",
+      "merged_at": "2026-07-07T01:05:13Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "koaning/scikit-lego",
+      "pr": 805,
+      "url": "https://github.com/koaning/scikit-lego/pull/805",
+      "title": "Clarify equal opportunity warning message",
+      "merged_at": "2026-07-05T20:18:29Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "Nixtla/neuralforecast",
+      "pr": 1563,
+      "url": "https://github.com/Nixtla/neuralforecast/pull/1563",
+      "title": "add FreDF loss combining time-domain MSE and frequency-domain MAE",
+      "merged_at": "2026-07-04T23:13:32Z",
+      "category": "upstream"
+    }
+  ],
+  "repo_stats": {
+    "SALib/SALib": {
+      "stars": 1015,
+      "owner_type": "Organization"
+    },
+    "ronsse/trellis-ai": {
+      "stars": 4,
+      "owner_type": "User"
+    },
+    "argoproj/argo-cd": {
+      "stars": 24350,
+      "owner_type": "Organization"
+    },
+    "fairlearn/fairlearn": {
+      "stars": 2290,
+      "owner_type": "Organization"
+    },
+    "ag2ai/faststream": {
+      "stars": 5367,
+      "owner_type": "Organization"
+    },
+    "beeware/briefcase": {
+      "stars": 3356,
+      "owner_type": "Organization"
+    },
+    "huggingface/peft": {
+      "stars": 21773,
+      "owner_type": "Organization"
+    },
+    "repowise-dev/repowise": {
+      "stars": 7393,
+      "owner_type": "Organization"
+    },
+    "Nixtla/statsforecast": {
+      "stars": 4925,
+      "owner_type": "Organization"
+    },
+    "scikit-learn-contrib/MAPIE": {
+      "stars": 1602,
+      "owner_type": "Organization"
+    },
+    "langgenius/dify": {
+      "stars": 158016,
+      "owner_type": "Organization"
+    },
+    "networkx/networkx": {
+      "stars": 17315,
+      "owner_type": "Organization"
+    },
+    "koaning/scikit-lego": {
+      "stars": 1411,
+      "owner_type": "User"
+    },
+    "Nixtla/neuralforecast": {
+      "stars": 4280,
+      "owner_type": "Organization"
+    }
+  }
+}

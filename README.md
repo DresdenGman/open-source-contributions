@@ -8,19 +8,23 @@ Engineering writeups for merged pull requests by [DresdenGman](https://github.co
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Documented merged pull requests | **24** |
-| Merged upstream pull requests | **19** |
+| Documented merged pull requests | **25** |
+| Merged upstream pull requests | **20** |
 | Upstream repositories | **14** |
-| Upstream organizations | **13** |
-| Deduplicated upstream repository reach | **250,602 stars** |
-| Project-repository pull requests | **5** |
+| Upstream owners | **13** (11 organizations, 2 individual owners) |
+| Deduplicated upstream repository reach | **253,097 stars** |
+| Selected project-repository writeups | **5** |
+| All public authored merged PRs (including own projects) | **46** |
 
-Stars are current repository-level context, measured on **September 20, 2026**, and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
+Verified on **October 9, 2026 (America/Los_Angeles)**. The 25 writeups cover all 20 upstream merges plus 5 selected project merges; they are not the total of all authored PRs. GitHub search returns 46 public authored merges: 20 upstream and 26 in contributor-controlled repositories. [Full merge audit](data/github-merge-audit.json).
+
+Stars are repository-level context, measured on the same date and counted once per upstream repository. They do not represent stars earned by these patches. See [Methodology](METHODOLOGY.md).
 
 ## Selected contributions
 
 | Repository | Contribution | Engineering signal | Outcome |
 | --- | --- | --- | --- |
+| [SALib](https://github.com/SALib/SALib) | [Reject unbounded Morris sampling distributions](writeups/upstream/salib-693.md) | Numerical reliability, endpoint validation, regression tests and maintainer refinement | Merged |
 | [SALib](https://github.com/SALib/SALib) | [Implement Goda Shapley effects estimation](writeups/upstream/salib-686.md) | Research translation, statistical API design, validation, documentation and maintainer optimization | Merged |
 | [Dify](https://github.com/langgenius/dify) | [Replace patched logger assertions with `caplog`](writeups/upstream/dify-38626.md) | Test design and scope verification in a 156k-star codebase | Merged |
 | [Fairlearn](https://github.com/fairlearn/fairlearn) | [Auto-detect `MetricFrame` confidence intervals](writeups/upstream/fairlearn-1674.md) | Public-API design, plotting integration, edge-case tests | Merged |
@@ -67,17 +71,28 @@ These merged pull requests belong to a project repository under direct control, 
 
 ## Active pipeline
 
-Active work is intentionally not described as an accomplishment until it merges. These open upstream PRs were last reconciled on **September 21, 2026**.
+Active work is intentionally not described as an accomplishment until it merges. These open upstream PRs were last reconciled on **October 9, 2026 (America/Los_Angeles)**.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
 | SALib/SALib | [#694](https://github.com/SALib/SALib/pull/694) | Open; retained Morris bootstrap-resample support; all five checks passing; awaiting review |
-| SALib/SALib | [#693](https://github.com/SALib/SALib/pull/693) | Open; non-finite Morris-design guard; all five checks passing; awaiting review |
 | Nixtla/statsforecast | [#1241](https://github.com/Nixtla/statsforecast/pull/1241) | Open; fixed-theta API; all 57 reported checks passing or skipped; awaiting review |
 | Nixtla/statsforecast | [#1240](https://github.com/Nixtla/statsforecast/pull/1240) | Open; AutoTheta configuration-preservation fix; all 57 reported checks passing or skipped; awaiting review |
-| sympy/sympy | [#30018](https://github.com/sympy/sympy/pull/30018) | Open; CI passing; awaiting review |
+| sympy/sympy | [#30018](https://github.com/sympy/sympy/pull/30018) | Open; historical checks passing; base compatibility requires rechecking before further work |
 | PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; mergeable; CLA passing; awaiting human review |
 | Nixtla/statsforecast | [#1239](https://github.com/Nixtla/statsforecast/pull/1239) | Open; MFLES fallback scale fix; all 57 reported checks passing or skipped; awaiting review |
+
+### Other submitted work
+
+| Repository | PR | State |
+| --- | --- | --- |
+| microsoft/autogen | [#8009](https://github.com/microsoft/autogen/pull/8009) | Draft; historical adapter proposal; not merged |
+| wilsonfreitas/awesome-quant | [#735](https://github.com/wilsonfreitas/awesome-quant/pull/735) | Open; EPSILON resource recommendation |
+| protontypes/open-sustainable-technology | [#1663](https://github.com/protontypes/open-sustainable-technology/pull/1663) | Open; GERT resource recommendation |
+| leo007-htun/awesome-energy-models | [#1](https://github.com/leo007-htun/awesome-energy-models/pull/1) | Open; GERT resource recommendation |
+| DresdenGman/Grid-Extreme-Risk-Toolkit-GERT- | [#5](https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/pull/5) | Open; own-project notebook; excluded from upstream contributions |
+
+The [navigation-glasses recommendation](https://github.com/lukeslp/awesome-accessibility/issues/95) is an open issue, not an accepted listing or merged PR. PAWN boundary and missing-output corrections exist on personal-fork branches but have not been submitted upstream; the Sobol parallel-resample correction is a local patch only. The DGSM candidate overlaps [another contributor's PR #699](https://github.com/SALib/SALib/pull/699) and is parked. None is counted as a merged contribution.
 
 On September 13, skops #521, OpenLLMetry #4357 and GluonTS #3303 were closed unmerged after extended periods without human review. Their code and discussion history are retained; they are not counted as merged contributions. StatsForecast #1222 was closed unmerged after upstream #1224 supplied the same validation change. Local StatsForecast investigations #1235 and #911 are not submitted PRs or merged accomplishments.
 

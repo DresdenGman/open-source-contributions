@@ -31,7 +31,11 @@ Repository stars are contextual reach, not patch-level popularity.
 - Values naturally change over time; the snapshot date prevents false precision.
 - The portfolio never claims that a contribution earned or owns the repository's stars.
 
-For the August 19, 2026 snapshot, the 13 unique upstream repositories total **245,653 stars**.
+For the October 9, 2026 (America/Los_Angeles) snapshot, the 14 unique upstream repositories total **253,097 stars**. They have 13 distinct owners: 11 GitHub organizations and 2 individual accounts. Owners and organizations are not interchangeable counts.
+
+The curated writeup index contains 25 records: 20 upstream and 5 selected project-engineering entries. Separately, the public `author:DresdenGman is:pr is:merged` search returns 46 records: 20 upstream and 26 in repositories controlled by DresdenGman or dresdengoehner. The historical GERT #2 writeup is retained in the curated project subset; it is not added to that authored-search total. See `data/github-merge-audit.json` for the complete authored-search inventory and repository-star snapshot.
+
+GitHub timestamps remain UTC in JSON. The newest merge is October 10 at 00:27:08 UTC, equivalent to October 9 at 17:27:08 PDT. Existing historical table dates retain their source dates; the newest local-date row is labeled PT.
 
 ## Status definitions
 
@@ -39,6 +43,8 @@ For the August 19, 2026 snapshot, the 13 unique upstream repositories total **24
 | --- | --- |
 | Merged | GitHub records a non-null merge timestamp |
 | Active | Open or draft PR still under development or review |
+| Fork only | Code published on a personal fork without an upstream PR |
+| Local patch | Unsubmitted local work; neither an upstream PR nor a merge |
 | Shelved | Closed without merge, duplicate, obsolete, or intentionally stopped |
 | Watching | Issue or discussion monitored before implementation |
 
