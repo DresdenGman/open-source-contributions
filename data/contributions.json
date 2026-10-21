@@ -1,20 +1,45 @@
 {
   "schema_version": 1,
-  "snapshot_date": "2026-10-09",
+  "snapshot_date": "2026-10-21",
   "author": "DresdenGman",
-  "methodology": "The merged array is the curated writeup index (20 upstream PRs and 5 selected project PRs), not all authored merges. Public authored PR totals are recorded separately. Stars are deduplicated by upstream repository; project repositories are excluded. Dates in GitHub records retain UTC timestamps.",
+  "methodology": "The merged array is a curated writeup index: 21 upstream engineering PRs, 1 separately classified resource listing, and 5 selected project PRs. The authored-merge audit has 48 PRs: 21 upstream engineering, 1 resource listing, and 26 contributor-controlled project PRs. Stars retain the October 9, 2026 America/Los_Angeles snapshot, deduplicated over engineering recipient repositories, excluding own projects and resource listings. GitHub merge timestamps remain UTC.",
   "metrics": {
-    "merged_pull_requests": 25,
-    "merged_upstream_pull_requests": 20,
+    "merged_pull_requests": 27,
+    "merged_upstream_pull_requests": 21,
     "merged_project_pull_requests": 5,
     "unique_upstream_repositories": 14,
     "unique_upstream_organizations": 11,
     "deduplicated_upstream_repository_stars": 253097,
     "unique_upstream_owners": 13,
-    "public_authored_merged_pull_requests": 46,
-    "public_authored_project_merged_pull_requests": 26
+    "public_authored_merged_pull_requests": 48,
+    "public_authored_project_merged_pull_requests": 26,
+    "merged_resource_listing_pull_requests": 1,
+    "public_authored_upstream_including_resource_listings": 22
   },
   "merged": [
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1241,
+      "merged_at": "2026-10-20T23:02:22Z",
+      "stars": 4925,
+      "files": 2,
+      "additions": 47,
+      "deletions": 0,
+      "category": "upstream",
+      "writeup": "writeups/upstream/statsforecast-1241.md",
+      "merge_commit": "0205851f29a9b5e70eb6e2507cf2f6fa697b0ee2"
+    },
+    {
+      "repo": "wilsonfreitas/awesome-quant",
+      "pr": 735,
+      "merged_at": "2026-10-19T12:42:41Z",
+      "files": 1,
+      "additions": 1,
+      "deletions": 0,
+      "category": "resource_listing",
+      "writeup": "writeups/resources/awesome-quant-735.md",
+      "merge_commit": "fdd486b5a53ef8af36882b4935bc1e2405c045d6"
+    },
     {
       "repo": "SALib/SALib",
       "pr": 693,
@@ -72,6 +97,17 @@
       "writeup": "writeups/projects/epsilon-15.md"
     },
     {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 10,
+      "merged_at": "2026-08-30T08:10:36Z",
+      "stars": 33,
+      "files": 22,
+      "additions": 1023,
+      "deletions": 802,
+      "category": "project",
+      "writeup": "writeups/projects/epsilon-10.md"
+    },
+    {
       "repo": "ronsse/trellis-ai",
       "pr": 352,
       "merged_at": "2026-08-27T15:32:10Z",
@@ -114,6 +150,39 @@
       "deletions": 1,
       "category": "upstream",
       "writeup": "writeups/upstream/argo-cd-29173.md"
+    },
+    {
+      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 4,
+      "merged_at": "2026-08-02T12:06:38Z",
+      "stars": 1,
+      "files": 8,
+      "additions": 130,
+      "deletions": 28,
+      "category": "project",
+      "writeup": "writeups/projects/gert-4.md"
+    },
+    {
+      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 3,
+      "merged_at": "2026-08-02T11:55:39Z",
+      "stars": 1,
+      "files": 2,
+      "additions": 235,
+      "deletions": 96,
+      "category": "project",
+      "writeup": "writeups/projects/gert-3.md"
+    },
+    {
+      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 2,
+      "merged_at": "2026-08-02T10:36:52Z",
+      "stars": 1,
+      "files": 10,
+      "additions": 71,
+      "deletions": 15,
+      "category": "project",
+      "writeup": "writeups/projects/gert-2.md"
     },
     {
       "repo": "beeware/briefcase",
@@ -246,51 +315,9 @@
       "deletions": 1,
       "category": "upstream",
       "writeup": "writeups/upstream/neuralforecast-1563.md"
-    },
-    {
-      "repo": "DresdenGman/EPSILON-trading-simulator",
-      "pr": 10,
-      "merged_at": "2026-08-30T08:10:36Z",
-      "stars": 33,
-      "files": 22,
-      "additions": 1023,
-      "deletions": 802,
-      "category": "project",
-      "writeup": "writeups/projects/epsilon-10.md"
-    },
-    {
-      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
-      "pr": 2,
-      "merged_at": "2026-08-02T10:36:52Z",
-      "stars": 1,
-      "files": 10,
-      "additions": 71,
-      "deletions": 15,
-      "category": "project",
-      "writeup": "writeups/projects/gert-2.md"
-    },
-    {
-      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
-      "pr": 3,
-      "merged_at": "2026-08-02T11:55:39Z",
-      "stars": 1,
-      "files": 2,
-      "additions": 235,
-      "deletions": 96,
-      "category": "project",
-      "writeup": "writeups/projects/gert-3.md"
-    },
-    {
-      "repo": "dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-",
-      "pr": 4,
-      "merged_at": "2026-08-02T12:06:38Z",
-      "stars": 1,
-      "files": 8,
-      "additions": 130,
-      "deletions": 28,
-      "category": "project",
-      "writeup": "writeups/projects/gert-4.md"
     }
   ],
-  "snapshot_timezone": "America/Los_Angeles"
+  "snapshot_timezone": "Etc/UTC",
+  "star_snapshot_date": "2026-10-09",
+  "star_snapshot_timezone": "America/Los_Angeles"
 }
