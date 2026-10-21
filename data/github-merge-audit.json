@@ -1,13 +1,32 @@
 {
-  "date": "2026-10-09",
-  "timezone": "America/Los_Angeles",
+  "date": "2026-10-21",
+  "timezone": "Etc/UTC",
   "merged": [
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1241,
+      "url": "https://github.com/Nixtla/statsforecast/pull/1241",
+      "title": "feat: expose fixed theta parameter",
+      "merged_at": "2026-10-20T23:02:22Z",
+      "merge_commit": "0205851f29a9b5e70eb6e2507cf2f6fa697b0ee2",
+      "category": "upstream"
+    },
+    {
+      "repo": "wilsonfreitas/awesome-quant",
+      "pr": 735,
+      "url": "https://github.com/wilsonfreitas/awesome-quant/pull/735",
+      "title": "Add EPSILON to Reproducing Works, Training & Books",
+      "merged_at": "2026-10-19T12:42:41Z",
+      "merge_commit": "fdd486b5a53ef8af36882b4935bc1e2405c045d6",
+      "category": "resource_listing"
+    },
     {
       "repo": "SALib/SALib",
       "pr": 693,
       "url": "https://github.com/SALib/SALib/pull/693",
       "title": "Fix non-finite Morris samples for unbounded distributions",
       "merged_at": "2026-10-10T00:27:08Z",
+      "merge_commit": "34c2fbb0b23758f99e272086b6653fac4f45b33d",
       "category": "upstream"
     },
     {
@@ -16,6 +35,7 @@
       "url": "https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/pull/6",
       "title": "Add tail-sample diagnostics and restore frontend dependency checks",
       "merged_at": "2026-10-03T23:33:02Z",
+      "merge_commit": "3ae964b483927c63d4e9367f46e9d071556c4f0d",
       "category": "project"
     },
     {
@@ -24,6 +44,7 @@
       "url": "https://github.com/DresdenGman/AIGlasses_for_navigation/pull/2",
       "title": "Keep green-light observations informational and reject invalid distances",
       "merged_at": "2026-10-03T23:33:00Z",
+      "merge_commit": "2ca8757f1e61851dfe66ef510358e72717a38190",
       "category": "project"
     },
     {
@@ -32,6 +53,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/34",
       "title": "Add reproducible synthetic winner-selection teaching lab",
       "merged_at": "2026-10-03T23:32:58Z",
+      "merge_commit": "389d07d695cc610f0659baca1f941157e89c3ff7",
       "category": "project"
     },
     {
@@ -40,6 +62,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/33",
       "title": "Triage fourth private participation submission",
       "merged_at": "2026-09-25T13:54:35Z",
+      "merge_commit": "34e15130a2423e69ffdef3ff14d4da9ea074924a",
       "category": "project"
     },
     {
@@ -48,6 +71,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/31",
       "title": "Document feedback-led activity corrections",
       "merged_at": "2026-09-25T13:41:34Z",
+      "merge_commit": "e5150f0da901dda7cb28f3466ee708a06fb1937e",
       "category": "project"
     },
     {
@@ -56,6 +80,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/29",
       "title": "Restore visual-first README with current screenshots and two video tours",
       "merged_at": "2026-09-19T01:26:41Z",
+      "merge_commit": "9d3b884e039d08c19de09cf0d4b94c714667aeb4",
       "category": "project"
     },
     {
@@ -64,6 +89,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/28",
       "title": "Present EPSILON project overview, verified recognition, and participation paths",
       "merged_at": "2026-09-19T01:14:45Z",
+      "merge_commit": "9eed946d566481bad387772968355409a618532e",
       "category": "project"
     },
     {
@@ -72,6 +98,7 @@
       "url": "https://github.com/DresdenGman/AIGlasses_for_navigation/pull/1",
       "title": "Upgrade: reproducible AI glasses prototype",
       "merged_at": "2026-09-18T23:17:07Z",
+      "merge_commit": "2e885793363854c7659de093f12c67cecf997b4e",
       "category": "project"
     },
     {
@@ -80,6 +107,7 @@
       "url": "https://github.com/SALib/SALib/pull/686",
       "title": "Add Goda Shapley effects method",
       "merged_at": "2026-09-18T23:00:06Z",
+      "merge_commit": "387bc4ed37e0e983d5f77f905478a97a89e77339",
       "category": "upstream"
     },
     {
@@ -88,6 +116,7 @@
       "url": "https://github.com/SALib/SALib/pull/688",
       "title": "Seed the delta SVM regression test",
       "merged_at": "2026-09-18T22:19:51Z",
+      "merge_commit": "6869261e9a8e927b2ee76d4f70c14151eeaac4bc",
       "category": "upstream"
     },
     {
@@ -96,6 +125,7 @@
       "url": "https://github.com/SALib/SALib/pull/685",
       "title": "Seed the discrepancy test sample",
       "merged_at": "2026-09-18T22:19:39Z",
+      "merge_commit": "000a2a91b953f0068209dce5d0a1e0a21298866e",
       "category": "upstream"
     },
     {
@@ -104,6 +134,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/27",
       "title": "Finish English-only repository homepage presentation",
       "merged_at": "2026-09-13T21:21:11Z",
+      "merge_commit": "0e49ddeb6296ea30a825f4b38718ad9d8daa325a",
       "category": "project"
     },
     {
@@ -112,6 +143,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/26",
       "title": "Make current repository text and desktop UI English-only",
       "merged_at": "2026-09-13T21:15:31Z",
+      "merge_commit": "c0f8771ba4a069a7a9ff7c5db7f7a46341eb0d32",
       "category": "project"
     },
     {
@@ -120,6 +152,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/25",
       "title": "Clarify community participation and case evidence boundaries",
       "merged_at": "2026-09-13T10:11:29Z",
+      "merge_commit": "c889da7438a2059b20638884453d1a5235cd5f13",
       "category": "project"
     },
     {
@@ -128,6 +161,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/24",
       "title": "Make the current instrument reproducible and traceable",
       "merged_at": "2026-09-13T09:00:35Z",
+      "merge_commit": "1e0254ab011c50768da3f68894896d41dc296955",
       "category": "project"
     },
     {
@@ -136,6 +170,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/15",
       "title": "fix(data): verify public evidence metrics",
       "merged_at": "2026-09-02T02:37:19Z",
+      "merge_commit": "a8137133ce1480feb02c9d81627820b98899a7f4",
       "category": "project"
     },
     {
@@ -144,6 +179,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/14",
       "title": "fix(data): protect the public historical adapter",
       "merged_at": "2026-08-31T05:07:09Z",
+      "merge_commit": "dd98e51ce6420ccc68092b701fbca949c02b0b7f",
       "category": "project"
     },
     {
@@ -152,6 +188,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/12",
       "title": "fix(metrics): make public snapshot automation reliable",
       "merged_at": "2026-08-31T05:00:19Z",
+      "merge_commit": "ec1b2d8222c36569131102721da61acff44d4890",
       "category": "project"
     },
     {
@@ -160,6 +197,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/11",
       "title": "feat(impact): launch verifiable external validation system",
       "merged_at": "2026-08-31T04:57:31Z",
+      "merge_commit": "230ec682f417ad5f368e4b9746bf2b92bc53616c",
       "category": "project"
     },
     {
@@ -168,6 +206,7 @@
       "url": "https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/pull/1",
       "title": "Release evidence-first GERT product",
       "merged_at": "2026-08-31T00:31:08Z",
+      "merge_commit": "afb9838f0fa637b3c8f769812c22dd66c155208a",
       "category": "project"
     },
     {
@@ -176,6 +215,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/10",
       "title": "feat(product): harden the public release",
       "merged_at": "2026-08-30T08:10:36Z",
+      "merge_commit": "64ed46a398def12637855d8b621dff2a3356b304",
       "category": "project"
     },
     {
@@ -184,31 +224,8 @@
       "url": "https://github.com/ronsse/trellis-ai/pull/352",
       "title": "fix(mcp): document save_experience trace schema",
       "merged_at": "2026-08-27T15:32:10Z",
+      "merge_commit": "1466eb981da6dd1d5be56e50f639924fa19e4f23",
       "category": "upstream"
-    },
-    {
-      "repo": "argoproj/argo-cd",
-      "pr": 29173,
-      "url": "https://github.com/argoproj/argo-cd/pull/29173",
-      "title": "docs: fix config management plugin link (#29172)",
-      "merged_at": "2026-08-13T10:21:21Z",
-      "category": "upstream"
-    },
-    {
-      "repo": "DresdenGman/EPSILON-trading-simulator",
-      "pr": 9,
-      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/9",
-      "title": "feat(growth): add public impact ledger",
-      "merged_at": "2026-08-13T10:15:07Z",
-      "category": "project"
-    },
-    {
-      "repo": "DresdenGman/EPSILON-trading-simulator",
-      "pr": 2,
-      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/2",
-      "title": "Build EPSILON Quantitative Decision Lab",
-      "merged_at": "2026-08-13T08:18:05Z",
-      "category": "project"
     },
     {
       "repo": "fairlearn/fairlearn",
@@ -216,6 +233,7 @@
       "url": "https://github.com/fairlearn/fairlearn/pull/1673",
       "title": "MNT: clarify fitted-state check in adversarial mitigation",
       "merged_at": "2026-08-17T03:27:29Z",
+      "merge_commit": "8daa86ed7282b1dd0a79581a35de8638c4be021e",
       "category": "upstream"
     },
     {
@@ -224,7 +242,26 @@
       "url": "https://github.com/ag2ai/faststream/pull/3015",
       "title": "feat(redis): add StreamSub declare option",
       "merged_at": "2026-08-13T17:48:31Z",
+      "merge_commit": "acb80d35e7ef1be5a03e3af364b00406e032a43f",
       "category": "upstream"
+    },
+    {
+      "repo": "argoproj/argo-cd",
+      "pr": 29173,
+      "url": "https://github.com/argoproj/argo-cd/pull/29173",
+      "title": "docs: fix config management plugin link (#29172)",
+      "merged_at": "2026-08-13T10:21:21Z",
+      "merge_commit": "b5fc12e0155c6a58c0924afc0ec68478cf25da11",
+      "category": "upstream"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 9,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/9",
+      "title": "feat(growth): add public impact ledger",
+      "merged_at": "2026-08-13T10:15:07Z",
+      "merge_commit": "d4c7cf5ac827995d745cf16f5e5e99d5acf2090f",
+      "category": "project"
     },
     {
       "repo": "DresdenGman/EPSILON-trading-simulator",
@@ -232,6 +269,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/6",
       "title": "docs(growth): add communication pack",
       "merged_at": "2026-08-13T09:03:52Z",
+      "merge_commit": "e55d26c0a0a47580bd3cf79520b6478186f7a81a",
       "category": "project"
     },
     {
@@ -240,6 +278,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/5",
       "title": "docs(readme): add product visuals",
       "merged_at": "2026-08-13T08:54:02Z",
+      "merge_commit": "06e9345cf2703450a0ec5f66189f101ce2c890a0",
       "category": "project"
     },
     {
@@ -248,6 +287,7 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/4",
       "title": "docs(growth): polish product video",
       "merged_at": "2026-08-13T08:44:25Z",
+      "merge_commit": "a74fb9e185df5691bac53f6eb4e30ed20e41b1e2",
       "category": "project"
     },
     {
@@ -256,6 +296,16 @@
       "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/3",
       "title": "docs(growth): add 30-second product video",
       "merged_at": "2026-08-13T08:29:47Z",
+      "merge_commit": "3be8600ca81692aa44d954e5ba2aace71795fd30",
+      "category": "project"
+    },
+    {
+      "repo": "DresdenGman/EPSILON-trading-simulator",
+      "pr": 2,
+      "url": "https://github.com/DresdenGman/EPSILON-trading-simulator/pull/2",
+      "title": "Build EPSILON Quantitative Decision Lab",
+      "merged_at": "2026-08-13T08:18:05Z",
+      "merge_commit": "f5e7ec31f4e2f5560c49e5abb9e3ef162765e337",
       "category": "project"
     },
     {
@@ -264,6 +314,7 @@
       "url": "https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/4",
       "title": "feat(ercot): use official adequacy capacity context",
       "merged_at": "2026-08-02T12:06:38Z",
+      "merge_commit": "b6e587c58b5d639d4fa50a3d2ebff6093b556761",
       "category": "project"
     },
     {
@@ -272,6 +323,7 @@
       "url": "https://github.com/dresdengoehner/Grid-Extreme-Risk-Toolkit-GERT-/pull/3",
       "title": "feat(ercot): use authenticated official load API",
       "merged_at": "2026-08-02T11:55:39Z",
+      "merge_commit": "ef022b323554d2e4fe6454d88dfe6d2cabccb329",
       "category": "project"
     },
     {
@@ -280,6 +332,7 @@
       "url": "https://github.com/beeware/briefcase/pull/2939",
       "title": "Add zizmor pre-commit hook and fix all reported GHA security issues",
       "merged_at": "2026-07-29T01:59:52Z",
+      "merge_commit": "fc1464553975643f686dc0e540717c79fc4e4459",
       "category": "upstream"
     },
     {
@@ -288,6 +341,7 @@
       "url": "https://github.com/SALib/SALib/pull/678",
       "title": "Fix Sobol analysis for partially constant multi-output columns",
       "merged_at": "2026-07-17T02:43:49Z",
+      "merge_commit": "a1799c6cef0764279809de96f5268b64ee92fb9f",
       "category": "upstream"
     },
     {
@@ -296,6 +350,7 @@
       "url": "https://github.com/huggingface/peft/pull/3417",
       "title": "Improve IA3 documentation: add usage guidance, module selection tips, and LoRA comparison",
       "merged_at": "2026-07-14T12:13:13Z",
+      "merge_commit": "b753abbd1102515c0693a3531292a7dc49b53c1e",
       "category": "upstream"
     },
     {
@@ -304,6 +359,7 @@
       "url": "https://github.com/repowise-dev/repowise/pull/788",
       "title": "feat(codex): deliver architectural decisions into Codex SessionStart",
       "merged_at": "2026-07-14T08:26:47Z",
+      "merge_commit": "dd602d377dd4f53ad5cbff52a6d36542c8cb74b6",
       "category": "upstream"
     },
     {
@@ -312,6 +368,7 @@
       "url": "https://github.com/Nixtla/statsforecast/pull/1175",
       "title": "[FEAT] Add conformal_error prediction intervals method",
       "merged_at": "2026-07-13T23:23:59Z",
+      "merge_commit": "7667cc201f7f503e24bbe28d09fb5966b2cbfbd1",
       "category": "upstream"
     },
     {
@@ -320,6 +377,7 @@
       "url": "https://github.com/Nixtla/statsforecast/pull/1176",
       "title": "Add py.typed marker",
       "merged_at": "2026-07-11T21:50:45Z",
+      "merge_commit": "0cb115df71adbd0c0268ce96acc3e535a01f19f7",
       "category": "upstream"
     },
     {
@@ -328,6 +386,7 @@
       "url": "https://github.com/fairlearn/fairlearn/pull/1674",
       "title": "ENH auto-detect built-in CI in plot_metric_frame",
       "merged_at": "2026-07-11T00:56:06Z",
+      "merge_commit": "36b0514ef567c1dfad5806c22bc07a10914922f7",
       "category": "upstream"
     },
     {
@@ -336,6 +395,7 @@
       "url": "https://github.com/scikit-learn-contrib/MAPIE/pull/953",
       "title": "add aucroc_score and auarc_score uncertainty metrics",
       "merged_at": "2026-07-10T07:20:13Z",
+      "merge_commit": "26a9357f3acf585e003543734ab6549e19658cca",
       "category": "upstream"
     },
     {
@@ -344,6 +404,7 @@
       "url": "https://github.com/langgenius/dify/pull/38626",
       "title": "chore: Replace @patch logger.warning with caplog fixture in credit_pool_service test",
       "merged_at": "2026-07-10T03:24:02Z",
+      "merge_commit": "faba726a45d0e7543a4476a368a68388a4e7fdd1",
       "category": "upstream"
     },
     {
@@ -352,6 +413,7 @@
       "url": "https://github.com/networkx/networkx/pull/8735",
       "title": "Warn when PageRank convergence check is ineffective",
       "merged_at": "2026-07-07T01:05:13Z",
+      "merge_commit": "472a452c4db89c79efdebbdb20501b10fc726eae",
       "category": "upstream"
     },
     {
@@ -360,6 +422,7 @@
       "url": "https://github.com/koaning/scikit-lego/pull/805",
       "title": "Clarify equal opportunity warning message",
       "merged_at": "2026-07-05T20:18:29Z",
+      "merge_commit": "2f9f811c7eb19465592e82ce904cba2c9189ac07",
       "category": "upstream"
     },
     {
@@ -368,6 +431,7 @@
       "url": "https://github.com/Nixtla/neuralforecast/pull/1563",
       "title": "add FreDF loss combining time-domain MSE and frequency-domain MAE",
       "merged_at": "2026-07-04T23:13:32Z",
+      "merge_commit": "c70d666900927cc2c47c6001a2e0365c28bc266b",
       "category": "upstream"
     }
   ],
@@ -428,5 +492,650 @@
       "stars": 4280,
       "owner_type": "Organization"
     }
-  }
+  },
+  "author": "DresdenGman",
+  "checked_at": "2026-10-21T07:25:56Z",
+  "star_snapshot_date": "2026-10-09",
+  "star_snapshot_timezone": "America/Los_Angeles",
+  "methodology": "Authored-PR search followed by direct PR metadata for all 84 results. Counts describe public authored PRs, not all coauthored work, comments or historical GERT #2. Resource listings and contributor-controlled projects are separated from upstream engineering. Historical repository stars were not refreshed. Open-head CI records are reported, not rerun; historical failures are not newly introduced failures.",
+  "counts": {
+    "all_authored_prs": 84,
+    "merged": 48,
+    "open": 9,
+    "closed_unmerged": 27,
+    "merged_upstream_engineering": 21,
+    "merged_resource_listing": 1,
+    "merged_project": 26
+  },
+  "open": [
+    {
+      "repo": "SALib/SALib",
+      "pr": 694,
+      "url": "https://github.com/SALib/SALib/pull/694",
+      "title": "Add retained resamples to Morris analysis",
+      "draft": false,
+      "head_sha": "ce17f6ad0797d8341c7ac3aea0d83b08df7e17db",
+      "updated_at": "2026-10-12T09:52:55Z",
+      "category": "upstream",
+      "statuses": [
+        {
+          "context": "docs/readthedocs.org:salib",
+          "state": "success",
+          "target_url": "https://salib--694.org.readthedocs.build/en/694/"
+        }
+      ],
+      "workflow_runs": [
+        {
+          "id": 38232746205,
+          "name": "Test",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 352,
+          "jobs_url": "https://api.github.com/repos/SALib/SALib/actions/runs/38232746205/jobs",
+          "logs_url": "https://api.github.com/repos/SALib/SALib/actions/runs/38232746205/logs",
+          "workflow_id": 33170041
+        },
+        {
+          "id": 38232746160,
+          "name": "Linting",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 353,
+          "jobs_url": "https://api.github.com/repos/SALib/SALib/actions/runs/38232746160/jobs",
+          "logs_url": "https://api.github.com/repos/SALib/SALib/actions/runs/38232746160/logs",
+          "workflow_id": 33168895
+        }
+      ],
+      "mergeable": true
+    },
+    {
+      "repo": "DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-",
+      "pr": 5,
+      "url": "https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/pull/5",
+      "title": "Add one-click Colab reproduction notebook for Historical Lab",
+      "draft": false,
+      "head_sha": "9219fc6348a307743eaf9c24f433539004d5de38",
+      "updated_at": "2026-10-03T22:29:29Z",
+      "category": "project",
+      "statuses": [
+        {
+          "context": "Vercel",
+          "state": "success",
+          "target_url": "https://vercel.com/dresdens-projects-1b80b5a8/gert/3gooJhXVKVEZT1URkQb7cwcGSfRa"
+        }
+      ],
+      "workflow_runs": [
+        {
+          "id": 37158616656,
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 28,
+          "jobs_url": "https://api.github.com/repos/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/actions/runs/37158616656/jobs",
+          "logs_url": "https://api.github.com/repos/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-/actions/runs/37158616656/logs",
+          "workflow_id": 321793602
+        }
+      ],
+      "mergeable": true
+    },
+    {
+      "repo": "leo007-htun/awesome-energy-models",
+      "pr": 1,
+      "url": "https://github.com/leo007-htun/awesome-energy-models/pull/1",
+      "title": "Add GERT: deterministic grid-risk teaching toolkit (ERCOT)",
+      "draft": false,
+      "head_sha": "7b1dfefa8c2c99795411dc0316e21dec6fdb2502",
+      "updated_at": "2026-09-30T20:32:35Z",
+      "category": "resource_listing",
+      "statuses": [],
+      "workflow_runs": [],
+      "mergeable": true
+    },
+    {
+      "repo": "protontypes/open-sustainable-technology",
+      "pr": 1663,
+      "url": "https://github.com/protontypes/open-sustainable-technology/pull/1663",
+      "title": "Add GERT to Grid Analysis and Planning",
+      "draft": false,
+      "head_sha": "a0f5976a53738782acd6daceeffe5038b4a389be",
+      "updated_at": "2026-09-26T07:43:29Z",
+      "category": "resource_listing",
+      "statuses": [],
+      "workflow_runs": [
+        {
+          "id": 36227650558,
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "action_required",
+          "run_number": 4771,
+          "jobs_url": "https://api.github.com/repos/protontypes/open-sustainable-technology/actions/runs/36227650558/jobs",
+          "logs_url": "https://api.github.com/repos/protontypes/open-sustainable-technology/actions/runs/36227650558/logs",
+          "workflow_id": 3628381
+        },
+        {
+          "id": 36227650662,
+          "name": "PR Project Review - Fetch Data",
+          "status": "completed",
+          "conclusion": "action_required",
+          "run_number": 220,
+          "jobs_url": "https://api.github.com/repos/protontypes/open-sustainable-technology/actions/runs/36227650662/jobs",
+          "logs_url": "https://api.github.com/repos/protontypes/open-sustainable-technology/actions/runs/36227650662/logs",
+          "workflow_id": 243276063
+        }
+      ],
+      "mergeable": true
+    },
+    {
+      "repo": "microsoft/autogen",
+      "pr": 8009,
+      "url": "https://github.com/microsoft/autogen/pull/8009",
+      "title": "Add OpenEval adapter for AutoGen evals",
+      "draft": true,
+      "head_sha": "b6430ff023f92380a3405af780d383346084aa69",
+      "updated_at": "2026-09-30T00:05:25Z",
+      "category": "upstream",
+      "statuses": [],
+      "workflow_runs": [
+        {
+          "id": 30782104175,
+          "name": "dotnet-ci",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 12546,
+          "jobs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104175/jobs",
+          "logs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104175/logs",
+          "workflow_id": 80957376
+        },
+        {
+          "id": 30782104075,
+          "name": "CodeQL Advanced",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 8968,
+          "jobs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104075/jobs",
+          "logs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104075/logs",
+          "workflow_id": 121944235
+        },
+        {
+          "id": 30782104061,
+          "name": "Git LFS Check",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 10936,
+          "jobs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104061/jobs",
+          "logs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104061/logs",
+          "workflow_id": 94361954
+        },
+        {
+          "id": 30782104069,
+          "name": "Mem0 Memory Tests",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 1945,
+          "jobs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104069/jobs",
+          "logs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104069/logs",
+          "workflow_id": 161616470
+        },
+        {
+          "id": 30782104066,
+          "name": "Docs",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 8710,
+          "jobs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104066/jobs",
+          "logs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104066/logs",
+          "workflow_id": 120895450
+        },
+        {
+          "id": 30782104053,
+          "name": "Checks",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 9135,
+          "jobs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104053/jobs",
+          "logs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104053/logs",
+          "workflow_id": 120543861
+        },
+        {
+          "id": 30782104090,
+          "name": "Redis Memory Tests",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 1266,
+          "jobs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104090/jobs",
+          "logs_url": "https://api.github.com/repos/microsoft/autogen/actions/runs/30782104090/logs",
+          "workflow_id": 174908340
+        }
+      ],
+      "mergeable": true
+    },
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1240,
+      "url": "https://github.com/Nixtla/statsforecast/pull/1240",
+      "title": "fix: preserve AutoTheta configuration across forecast paths",
+      "draft": false,
+      "head_sha": "19a689ad41cadd1f4b7bb3f85abad24577904061",
+      "updated_at": "2026-09-21T18:32:18Z",
+      "category": "upstream",
+      "statuses": [
+        {
+          "context": "license/cla",
+          "state": "success",
+          "target_url": "https://cla-assistant.io/Nixtla/statsforecast?pullRequest=1240"
+        }
+      ],
+      "workflow_runs": [
+        {
+          "id": 35638172247,
+          "name": "Lint",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 2317,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172247/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172247/logs",
+          "workflow_id": 33004961
+        },
+        {
+          "id": 35638172050,
+          "name": "build-docs",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 1429,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172050/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172050/logs",
+          "workflow_id": 73259757
+        },
+        {
+          "id": 35638172046,
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 2654,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172046/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172046/logs",
+          "workflow_id": 15622683
+        },
+        {
+          "id": 35638172389,
+          "name": "pytest",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 352,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172389/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35638172389/logs",
+          "workflow_id": 235024700
+        }
+      ],
+      "mergeable": false
+    },
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1239,
+      "url": "https://github.com/Nixtla/statsforecast/pull/1239",
+      "title": "fix: preserve target scale in MFLES fallback",
+      "draft": false,
+      "head_sha": "99fd87524b87cbe7c0898c05d57955fda60fafa8",
+      "updated_at": "2026-09-20T11:50:42Z",
+      "category": "upstream",
+      "statuses": [
+        {
+          "context": "license/cla",
+          "state": "success",
+          "target_url": "https://cla-assistant.io/Nixtla/statsforecast?pullRequest=1239"
+        }
+      ],
+      "workflow_runs": [
+        {
+          "id": 35508635865,
+          "name": "Lint",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 2316,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635865/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635865/logs",
+          "workflow_id": 33004961
+        },
+        {
+          "id": 35508635875,
+          "name": "build-docs",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 1428,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635875/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635875/logs",
+          "workflow_id": 73259757
+        },
+        {
+          "id": 35508635863,
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 2653,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635863/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635863/logs",
+          "workflow_id": 15622683
+        },
+        {
+          "id": 35508635864,
+          "name": "pytest",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 351,
+          "jobs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635864/jobs",
+          "logs_url": "https://api.github.com/repos/Nixtla/statsforecast/actions/runs/35508635864/logs",
+          "workflow_id": 235024700
+        }
+      ],
+      "mergeable": true
+    },
+    {
+      "repo": "sympy/sympy",
+      "pr": 30018,
+      "url": "https://github.com/sympy/sympy/pull/30018",
+      "title": "Add Basic annotation to requires_partial",
+      "draft": false,
+      "head_sha": "ff645656f05dfaacfbc802f56f10d4092d64260b",
+      "updated_at": "2026-08-26T19:05:38Z",
+      "category": "upstream",
+      "statuses": [
+        {
+          "context": "ci/circleci: Build Docs Preview",
+          "state": "success",
+          "target_url": "https://circleci.com/gh/sympy/sympy/21513"
+        },
+        {
+          "context": "Click here to see a preview of the documentation.",
+          "state": "success",
+          "target_url": "https://output.circle-artifacts.com/output/job/ffb14ee8-1177-4c0d-ad3e-12e8f7366cdc/artifacts/0/doc/_build/html/index.html"
+        },
+        {
+          "context": "sympy-bot/release-notes",
+          "state": "success",
+          "target_url": "https://github.com/sympy/sympy/pull/30018#issuecomment-4893625200"
+        }
+      ],
+      "workflow_runs": [
+        {
+          "id": 31681975657,
+          "name": "test",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 32019,
+          "jobs_url": "https://api.github.com/repos/sympy/sympy/actions/runs/31681975657/jobs",
+          "logs_url": "https://api.github.com/repos/sympy/sympy/actions/runs/31681975657/logs",
+          "workflow_id": 3753242
+        },
+        {
+          "id": 31681975651,
+          "name": "zizmor",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 1863,
+          "jobs_url": "https://api.github.com/repos/sympy/sympy/actions/runs/31681975651/jobs",
+          "logs_url": "https://api.github.com/repos/sympy/sympy/actions/runs/31681975651/logs",
+          "workflow_id": 255875011
+        },
+        {
+          "id": 31681975637,
+          "name": "Pyodide",
+          "status": "completed",
+          "conclusion": "success",
+          "run_number": 10384,
+          "jobs_url": "https://api.github.com/repos/sympy/sympy/actions/runs/31681975637/jobs",
+          "logs_url": "https://api.github.com/repos/sympy/sympy/actions/runs/31681975637/logs",
+          "workflow_id": 123878820
+        }
+      ],
+      "mergeable": false
+    },
+    {
+      "repo": "PaddlePaddle/PaddleX",
+      "pr": 5190,
+      "url": "https://github.com/PaddlePaddle/PaddleX/pull/5190",
+      "title": "Fix duplicate Markdown images across pages",
+      "draft": false,
+      "head_sha": "70df7ac095b08ac63051d5054114cf8d0b8999ab",
+      "updated_at": "2026-08-24T16:56:54Z",
+      "category": "upstream",
+      "statuses": [
+        {
+          "context": "license/cla",
+          "state": "success",
+          "target_url": "https://cla-assistant.io/PaddlePaddle/PaddleX?pullRequest=5190"
+        }
+      ],
+      "workflow_runs": [
+        {
+          "id": 31686510674,
+          "name": "Python 3.8 Compatibility",
+          "status": "completed",
+          "conclusion": "failure",
+          "run_number": 168,
+          "jobs_url": "https://api.github.com/repos/PaddlePaddle/PaddleX/actions/runs/31686510674/jobs",
+          "logs_url": "https://api.github.com/repos/PaddlePaddle/PaddleX/actions/runs/31686510674/logs",
+          "workflow_id": 263975177
+        }
+      ],
+      "mergeable": true
+    }
+  ],
+  "closed_unmerged": [
+    {
+      "repo": "DresdenGman/utilsforecast",
+      "pr": 1,
+      "url": "https://github.com/DresdenGman/utilsforecast/pull/1",
+      "title": "add WAPE loss function",
+      "closed_at": "2026-10-03T22:50:28Z",
+      "category": "project"
+    },
+    {
+      "repo": "traceloop/openllmetry",
+      "pr": 4357,
+      "url": "https://github.com/traceloop/openllmetry/pull/4357",
+      "title": "Remove deprecated upload_records method from qdrant instrumentor",
+      "closed_at": "2026-09-13T10:08:57Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "awslabs/gluonts",
+      "pr": 3303,
+      "url": "https://github.com/awslabs/gluonts/pull/3303",
+      "title": "Add overlay-dx metric",
+      "closed_at": "2026-09-13T10:08:57Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "skops-dev/skops",
+      "pr": 521,
+      "url": "https://github.com/skops-dev/skops/pull/521",
+      "title": "Add trusted types for KNeighbors models",
+      "closed_at": "2026-09-13T10:08:57Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1222,
+      "url": "https://github.com/Nixtla/statsforecast/pull/1222",
+      "title": "Validate ConformalIntervals horizon",
+      "closed_at": "2026-09-10T17:36:11Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "anthropics/claude-agent-sdk-python",
+      "pr": 1114,
+      "url": "https://github.com/anthropics/claude-agent-sdk-python/pull/1114",
+      "title": "docs: document file-based system prompts for large inputs",
+      "closed_at": "2026-09-03T09:31:04Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "unit8co/darts",
+      "pr": 3192,
+      "url": "https://github.com/unit8co/darts/pull/3192",
+      "title": "Feat: Add save() and load() methods to KMeansScorer",
+      "closed_at": "2026-08-26T23:51:38Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "aeon-toolkit/aeon",
+      "pr": 3760,
+      "url": "https://github.com/aeon-toolkit/aeon/pull/3760",
+      "title": "Fix merlin standard deviation check being inverted",
+      "closed_at": "2026-08-27T00:34:43Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "pr": 53985,
+      "url": "https://github.com/vllm-project/vllm/pull/53985",
+      "title": "Fix: Prevent SageMaker logger standard from suppressing vLLM startup logs",
+      "closed_at": "2026-08-27T07:47:17Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "crewAIInc/crewAI",
+      "pr": 6985,
+      "url": "https://github.com/crewAIInc/crewAI/pull/6985",
+      "title": "fix(gemini): append user after model turn",
+      "closed_at": "2026-08-26T07:04:48Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "wagtail/wagtail",
+      "pr": 14560,
+      "url": "https://github.com/wagtail/wagtail/pull/14560",
+      "title": "Remove obsolete USE_L10N code paths",
+      "closed_at": "2026-08-26T10:19:19Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "beeware/toga",
+      "pr": 4570,
+      "url": "https://github.com/beeware/toga/pull/4570",
+      "title": "Add zizmor pre-commit hook and fix all reported GHA security issues",
+      "closed_at": "2026-07-20T22:12:33Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "benoitc/gunicorn",
+      "pr": 3665,
+      "url": "https://github.com/benoitc/gunicorn/pull/3665",
+      "title": "Fix nr_conns leak when transport is closed by server in ASGI worker",
+      "closed_at": "2026-08-16T09:11:23Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "pr": 27321,
+      "url": "https://github.com/astral-sh/ruff/pull/27321",
+      "title": "fix: avoid EXE001 on non-leading shebang comments",
+      "closed_at": "2026-07-30T07:53:49Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "pytest-dev/pytest",
+      "pr": 14792,
+      "url": "https://github.com/pytest-dev/pytest/pull/14792",
+      "title": "Fix finalizer state after fixture setup errors",
+      "closed_at": "2026-07-31T03:36:52Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "pola-rs/polars",
+      "pr": 28596,
+      "url": "https://github.com/pola-rs/polars/pull/28596",
+      "title": "fix: Preserve nulls with always-quoted CSV strings",
+      "closed_at": "2026-08-03T12:14:32Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "pr": 39130,
+      "url": "https://github.com/langchain-ai/langchain/pull/39130",
+      "title": "Add RecursiveJsonSplitter length_function",
+      "closed_at": "2026-07-30T01:58:34Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "lightly-ai/lightly",
+      "pr": 1979,
+      "url": "https://github.com/lightly-ai/lightly/pull/1979",
+      "title": "docs: sort implementations table by arXiv submission date",
+      "closed_at": "2026-07-14T17:28:44Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "sktime/sktime",
+      "pr": 10432,
+      "url": "https://github.com/sktime/sktime/pull/10432",
+      "title": "add exogenous variable support to TotoForecaster",
+      "closed_at": "2026-07-28T07:07:21Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "pytest-dev/pytest",
+      "pr": 14796,
+      "url": "https://github.com/pytest-dev/pytest/pull/14796",
+      "title": "Accept integer TOML truncation limits",
+      "closed_at": "2026-07-28T08:43:06Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "sqlfluff/sqlfluff",
+      "pr": 8114,
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8114",
+      "title": "Add lexer support for Teradata BTEQ dot-prefixed meta-commands",
+      "closed_at": "2026-07-15T19:33:40Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "Nixtla/utilsforecast",
+      "pr": 251,
+      "url": "https://github.com/Nixtla/utilsforecast/pull/251",
+      "title": "add WAPE loss function",
+      "closed_at": "2026-07-20T17:32:21Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "sktime/sktime",
+      "pr": 10422,
+      "url": "https://github.com/sktime/sktime/pull/10422",
+      "title": "[BUG] preserve pretrained state across refits",
+      "closed_at": "2026-07-11T15:11:02Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "omnigent-ai/omnigent",
+      "pr": 2418,
+      "url": "https://github.com/omnigent-ai/omnigent/pull/2418",
+      "title": "feat(cursor): add permission_mode bypass for native tool calls",
+      "closed_at": "2026-07-13T22:24:56Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "Nixtla/statsforecast",
+      "pr": 1165,
+      "url": "https://github.com/Nixtla/statsforecast/pull/1165",
+      "title": "add conformal_error prediction intervals method",
+      "closed_at": "2026-07-04T06:58:52Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "traceloop/openllmetry",
+      "pr": 4356,
+      "url": "https://github.com/traceloop/openllmetry/pull/4356",
+      "title": "Remove deprecated upload_records method from qdrant instrumentor",
+      "closed_at": "2026-07-10T01:54:22Z",
+      "category": "upstream"
+    },
+    {
+      "repo": "unit8co/darts",
+      "pr": 3134,
+      "url": "https://github.com/unit8co/darts/pull/3134",
+      "title": "warn when add_encoders is set but fit_from_dataset() is called",
+      "closed_at": "2026-06-19T07:01:45Z",
+      "category": "upstream"
+    }
+  ]
 }
