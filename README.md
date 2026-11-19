@@ -36,35 +36,35 @@ The engineering-repository star total remains the **historical October 9, 2026 (
 
 ## Merged upstream engineering contributions
 
-| Date | Repository | Pull request | Scope | Writeup |
-| --- | --- | --- | ---: | --- |
-| 2026-10-20 | Nixtla/statsforecast | [#1241](https://github.com/Nixtla/statsforecast/pull/1241) | 2 files, +47/−0 | [Read](writeups/upstream/statsforecast-1241.md) |
-| 2026-10-10 | SALib/SALib | [#693](https://github.com/SALib/SALib/pull/693) | 2 files, +125/−0 | [Read](writeups/upstream/salib-693.md) |
-| 2026-09-18 | SALib/SALib | [#686](https://github.com/SALib/SALib/pull/686) | 11 files, +659 | [Read](writeups/upstream/salib-686.md) |
-| 2026-09-18 | SALib/SALib | [#688](https://github.com/SALib/SALib/pull/688) | 1 file, +2/−1 | [Read](writeups/upstream/salib-688.md) |
-| 2026-09-18 | SALib/SALib | [#685](https://github.com/SALib/SALib/pull/685) | 1 file, +1/−1 | [Read](writeups/upstream/salib-685.md) |
-| 2026-08-27 | ronsse/trellis-ai | [#352](https://github.com/ronsse/trellis-ai/pull/352) | 2 files, +36/−1 | [Read](writeups/upstream/trellis-ai-352.md) |
-| 2026-08-17 | fairlearn/fairlearn | [#1673](https://github.com/fairlearn/fairlearn/pull/1673) | 2 files, +6/−6 | [Read](writeups/upstream/fairlearn-1673.md) |
-| 2026-08-13 | ag2ai/faststream | [#3015](https://github.com/ag2ai/faststream/pull/3015) | 4 files, +55/−1 | [Read](writeups/upstream/faststream-3015.md) |
-| 2026-08-13 | argoproj/argo-cd | [#29173](https://github.com/argoproj/argo-cd/pull/29173) | 1 file, +1/−1 | [Read](writeups/upstream/argo-cd-29173.md) |
-| 2026-07-29 | beeware/briefcase | [#2939](https://github.com/beeware/briefcase/pull/2939) | 8 files, +78/−38 | [Read](writeups/upstream/briefcase-2939.md) |
-| 2026-07-17 | SALib/SALib | [#678](https://github.com/SALib/SALib/pull/678) | 2 files, +92/−12 | [Read](writeups/upstream/salib-678.md) |
-| 2026-07-14 | huggingface/peft | [#3417](https://github.com/huggingface/peft/pull/3417) | 1 file, +20/−1 | [Read](writeups/upstream/peft-3417.md) |
-| 2026-07-14 | repowise-dev/repowise | [#788](https://github.com/repowise-dev/repowise/pull/788) | 2 files, +64/−15 | [Read](writeups/upstream/repowise-788.md) |
-| 2026-07-13 | Nixtla/statsforecast | [#1175](https://github.com/Nixtla/statsforecast/pull/1175) | 4 files, +81/−5 | [Read](writeups/upstream/statsforecast-1175.md) |
-| 2026-07-11 | Nixtla/statsforecast | [#1176](https://github.com/Nixtla/statsforecast/pull/1176) | 1 marker file | [Read](writeups/upstream/statsforecast-1176.md) |
-| 2026-07-11 | fairlearn/fairlearn | [#1674](https://github.com/fairlearn/fairlearn/pull/1674) | 3 files, +322/−0 | [Read](writeups/upstream/fairlearn-1674.md) |
-| 2026-07-10 | scikit-learn-contrib/MAPIE | [#953](https://github.com/scikit-learn-contrib/MAPIE/pull/953) | 5 files, +349 | [Read](writeups/upstream/mapie-953.md) |
-| 2026-07-10 | langgenius/dify | [#38626](https://github.com/langgenius/dify/pull/38626) | 1 file, +6/−5 | [Read](writeups/upstream/dify-38626.md) |
-| 2026-07-07 | networkx/networkx | [#8735](https://github.com/networkx/networkx/pull/8735) | 1 file, +6 | [Read](writeups/upstream/networkx-8735.md) |
-| 2026-07-05 | koaning/scikit-lego | [#805](https://github.com/koaning/scikit-lego/pull/805) | 2 files, +5/−2 | [Read](writeups/upstream/scikit-lego-805.md) |
-| 2026-07-04 | Nixtla/neuralforecast | [#1563](https://github.com/Nixtla/neuralforecast/pull/1563) | 2 files, +121/−1 | [Read](writeups/upstream/neuralforecast-1563.md) |
+| Repository | Pull request | Scope | Writeup |
+| --- | --- | ---: | --- |
+| Nixtla/statsforecast | [#1241](https://github.com/Nixtla/statsforecast/pull/1241) | 2 files, +47/−0 | [Read](writeups/upstream/statsforecast-1241.md) |
+| SALib/SALib | [#693](https://github.com/SALib/SALib/pull/693) | 2 files, +125/−0 | [Read](writeups/upstream/salib-693.md) |
+| SALib/SALib | [#686](https://github.com/SALib/SALib/pull/686) | 11 files, +659 | [Read](writeups/upstream/salib-686.md) |
+| SALib/SALib | [#688](https://github.com/SALib/SALib/pull/688) | 1 file, +2/−1 | [Read](writeups/upstream/salib-688.md) |
+| SALib/SALib | [#685](https://github.com/SALib/SALib/pull/685) | 1 file, +1/−1 | [Read](writeups/upstream/salib-685.md) |
+| ronsse/trellis-ai | [#352](https://github.com/ronsse/trellis-ai/pull/352) | 2 files, +36/−1 | [Read](writeups/upstream/trellis-ai-352.md) |
+| fairlearn/fairlearn | [#1673](https://github.com/fairlearn/fairlearn/pull/1673) | 2 files, +6/−6 | [Read](writeups/upstream/fairlearn-1673.md) |
+| ag2ai/faststream | [#3015](https://github.com/ag2ai/faststream/pull/3015) | 4 files, +55/−1 | [Read](writeups/upstream/faststream-3015.md) |
+| argoproj/argo-cd | [#29173](https://github.com/argoproj/argo-cd/pull/29173) | 1 file, +1/−1 | [Read](writeups/upstream/argo-cd-29173.md) |
+| beeware/briefcase | [#2939](https://github.com/beeware/briefcase/pull/2939) | 8 files, +78/−38 | [Read](writeups/upstream/briefcase-2939.md) |
+| SALib/SALib | [#678](https://github.com/SALib/SALib/pull/678) | 2 files, +92/−12 | [Read](writeups/upstream/salib-678.md) |
+| huggingface/peft | [#3417](https://github.com/huggingface/peft/pull/3417) | 1 file, +20/−1 | [Read](writeups/upstream/peft-3417.md) |
+| repowise-dev/repowise | [#788](https://github.com/repowise-dev/repowise/pull/788) | 2 files, +64/−15 | [Read](writeups/upstream/repowise-788.md) |
+| Nixtla/statsforecast | [#1175](https://github.com/Nixtla/statsforecast/pull/1175) | 4 files, +81/−5 | [Read](writeups/upstream/statsforecast-1175.md) |
+| Nixtla/statsforecast | [#1176](https://github.com/Nixtla/statsforecast/pull/1176) | 1 marker file | [Read](writeups/upstream/statsforecast-1176.md) |
+| fairlearn/fairlearn | [#1674](https://github.com/fairlearn/fairlearn/pull/1674) | 3 files, +322/−0 | [Read](writeups/upstream/fairlearn-1674.md) |
+| scikit-learn-contrib/MAPIE | [#953](https://github.com/scikit-learn-contrib/MAPIE/pull/953) | 5 files, +349 | [Read](writeups/upstream/mapie-953.md) |
+| langgenius/dify | [#38626](https://github.com/langgenius/dify/pull/38626) | 1 file, +6/−5 | [Read](writeups/upstream/dify-38626.md) |
+| networkx/networkx | [#8735](https://github.com/networkx/networkx/pull/8735) | 1 file, +6 | [Read](writeups/upstream/networkx-8735.md) |
+| koaning/scikit-lego | [#805](https://github.com/koaning/scikit-lego/pull/805) | 2 files, +5/−2 | [Read](writeups/upstream/scikit-lego-805.md) |
+| Nixtla/neuralforecast | [#1563](https://github.com/Nixtla/neuralforecast/pull/1563) | 2 files, +121/−1 | [Read](writeups/upstream/neuralforecast-1563.md) |
 
 ## Curated-resource inclusion
 
-| Date (UTC) | Repository | Pull request | Outcome |
-| --- | --- | --- | --- |
-| 2026-10-19 | wilsonfreitas/awesome-quant | [#735](https://github.com/wilsonfreitas/awesome-quant/pull/735) | EPSILON's Assumption Clinic included under “Reproducing Works, Training & Books”; [evidence record](writeups/resources/awesome-quant-735.md) |
+| Repository | Pull request | Outcome |
+| --- | --- | --- |
+| wilsonfreitas/awesome-quant | [#735](https://github.com/wilsonfreitas/awesome-quant/pull/735) | EPSILON's Assumption Clinic included under “Reproducing Works, Training & Books”; [evidence record](writeups/resources/awesome-quant-735.md) |
 
 This is independent directory inclusion, not an engineering-code contribution, evidence of learner adoption, or validation of trading performance. It is excluded from the 21 engineering merges and their repository-reach metrics.
 
