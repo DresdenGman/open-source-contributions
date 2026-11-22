@@ -34,17 +34,19 @@ Repository stars are contextual reach, not patch-level popularity.
 
 ## Current count and historical star snapshot
 
-The contribution status audit is dated **October 21, 2026 (UTC)**. It verifies 84 public authored PR records: **48 merged, 9 open, and 27 closed without merge**. The merged total separates **21 upstream engineering PRs, 1 curated-resource listing, and 26 PRs in contributor-controlled repositories**.
+The contribution status audit dated **October 21, 2026 (UTC)** verified 84 public authored PR records: **48 merged, 9 open, and 27 closed without merge**. The merged total separated **21 upstream engineering PRs, 1 curated-resource listing, and 26 PRs in contributor-controlled repositories**.
 
-The engineering contributions span 14 repositories and 13 owners: 11 GitHub organizations and 2 individual accounts. Including the separately categorized awesome-quant listing gives 22 independent-repository merges across 15 repositories and 14 owners. Owners and organizations are not interchangeable counts.
+A recount on **November 22, 2026 (UTC)**, using the same authored-PR search followed by per-PR metadata, verifies **101 public authored merged PRs**: **29 upstream engineering PRs, 1 curated-resource listing, and 71 PRs in contributor-controlled repositories**. Open and closed-unmerged records were not recounted for this update.
 
-The curated writeup index contains 27 records: 21 upstream engineering, 1 resource-listing evidence record, and 5 selected project-engineering entries. The historical GERT #2 writeup is retained in the curated project subset; it is not added to the DresdenGman authored-search total.
+The engineering contributions now span 19 repositories and 18 owners: 14 GitHub organizations and 4 individual accounts. Including the separately categorized awesome-quant listing gives 30 independent-repository merges across 20 repositories and 19 owners. Owners and organizations are not interchangeable counts.
 
-The repository-star values are retained from **October 9, 2026 (America/Los_Angeles)**, when the 14 engineering recipient repositories totaled **253,097 stars**. They were not remeasured for this update. No star total is claimed for the expanded set including awesome-quant. Each JSON file identifies the star snapshot separately from the contribution-status date.
+The curated writeup index contains 35 records: 29 upstream engineering, 1 resource-listing evidence record, and 5 selected project-engineering entries. The historical GERT #2 writeup is retained in the curated project subset; it is not added to the DresdenGman authored-search total.
 
-GitHub merge timestamps remain UTC in JSON, and the merged contribution table uses UTC dates. For example, SALib #693 merged October 10 at 00:27:08 UTC, equivalent to October 9 at 17:27:08 PDT. The new StatsForecast #1241 merge is October 20 at 23:02:22 UTC.
+The repository-star values for the original 14 engineering recipient repositories are retained from **October 9, 2026 (America/Los_Angeles)**, when they totaled **253,097 stars**. They were not remeasured for this update. The five engineering repositories added in the November 22, 2026 update (pandapower, linearmodels, pint, black, tornado) were measured on that date, are marked per entry in the JSON index, and are not folded into the historical total. No star total is claimed for the expanded set including awesome-quant. Each JSON file identifies the star snapshot separately from the contribution-status date.
 
-The audit uses authored-PR search followed by each returned PR's direct metadata. Search coverage is limited to the connected account's visible GitHub records. Open-PR status and available head CI were read, but no software tests or benchmarks were rerun for this documentation update. An empty workflow result does not establish a passing check, and historical workflow failures are not described as newly introduced failures. See [the audit data](data/github-merge-audit.json).
+GitHub merge timestamps remain UTC in JSON, and the merged contribution table uses UTC dates. For example, SALib #693 merged October 10 at 00:27:08 UTC, equivalent to October 9 at 17:27:08 PDT. The SALib #716 merge is November 22 at 02:52:59 UTC, equivalent to November 21 at 18:52:59 PST.
+
+The audits use authored-PR search followed by each returned PR's direct metadata. Search coverage is limited to the connected account's visible GitHub records. Open-PR status and available head CI were read for the October audit, but no software tests or benchmarks were rerun for these documentation updates. An empty workflow result does not establish a passing check, and historical workflow failures are not described as newly introduced failures. See [the audit data](data/github-merge-audit.json).
 
 ## Status definitions
 

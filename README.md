@@ -8,17 +8,17 @@ Engineering writeups and resource-inclusion records for merged pull requests by 
 
 | Verified outcome | Current value |
 | --- | ---: |
-| Documented merged pull requests | **27** |
-| Merged upstream engineering pull requests | **21** |
+| Documented merged pull requests | **35** |
+| Merged upstream engineering pull requests | **29** |
 | Merged curated-resource listings | **1**, counted separately |
-| Engineering recipient repositories | **14** |
-| Engineering recipient owners | **13** (11 organizations, 2 individual owners) |
+| Engineering recipient repositories | **19** |
+| Engineering recipient owners | **18** (14 organizations, 4 individual owners) |
 | Selected project-repository writeups | **5** |
-| All public authored merged PRs (including own projects) | **48** |
+| All public authored merged PRs (including own projects) | **101** |
 
-Verified on **October 21, 2026 (UTC)**. The 27 writeups cover 21 upstream engineering merges, 1 curated-resource listing, and 5 selected project merges; they are not the total of all authored PRs. The 48 public authored merges comprise **21 engineering contributions + 1 resource listing + 26 contributor-controlled project PRs**. [Full audit](data/github-merge-audit.json).
+Verified on **November 22, 2026 (UTC)**. The 35 writeups cover 29 upstream engineering merges, 1 curated-resource listing, and 5 selected project merges; they are not the total of all authored PRs. The 101 public authored merges comprise **29 engineering contributions + 1 resource listing + 71 contributor-controlled project PRs**. The [October 21, 2026 audit](data/github-merge-audit.json) is retained as the historical record for that date; the counts above were re-verified against the live authored-PR record for this update.
 
-The engineering-repository star total remains the **historical October 9, 2026 (America/Los_Angeles) snapshot: 253,097 stars**, deduplicated across 14 repositories. It was not remeasured for this update, excludes the resource directory, and is ecosystem context rather than stars earned by these patches. See [Methodology](METHODOLOGY.md).
+The engineering-repository star total remains the **historical October 9, 2026 (America/Los_Angeles) snapshot: 253,097 stars**, deduplicated across the original 14 repositories. It was not remeasured for this update, excludes the resource directory, and is ecosystem context rather than stars earned by these patches. The five engineering repositories added in this update (pandapower, linearmodels, pint, black, tornado) were measured on November 22, 2026 (UTC); their values are recorded per entry in [data/contributions.json](data/contributions.json) and are not folded into the historical total. See [Methodology](METHODOLOGY.md).
 
 ## Selected contributions
 
@@ -27,12 +27,14 @@ The engineering-repository star total remains the **historical October 9, 2026 (
 | [StatsForecast](https://github.com/Nixtla/statsforecast) | [Expose a fixed theta parameter](writeups/upstream/statsforecast-1241.md) | Public API, optimizer-aligned validation and fit/forecast regression coverage | Merged |
 | [SALib](https://github.com/SALib/SALib) | [Reject unbounded Morris sampling distributions](writeups/upstream/salib-693.md) | Numerical reliability, endpoint validation, regression tests and maintainer refinement | Merged |
 | [SALib](https://github.com/SALib/SALib) | [Implement Goda Shapley effects estimation](writeups/upstream/salib-686.md) | Research translation, statistical API design, validation, documentation and maintainer optimization | Merged |
+| [SALib](https://github.com/SALib/SALib) | [Implement group-aware Shapley effects](writeups/upstream/salib-716.md) | Statistical API design, covariance-aware group confidence intervals and equivalence testing | Merged |
 | [Dify](https://github.com/langgenius/dify) | [Replace patched logger assertions with `caplog`](writeups/upstream/dify-38626.md) | Test design and scope verification in a 156k-star codebase | Merged |
 | [Fairlearn](https://github.com/fairlearn/fairlearn) | [Auto-detect `MetricFrame` confidence intervals](writeups/upstream/fairlearn-1674.md) | Public-API design, plotting integration, edge-case tests | Merged |
 | [MAPIE](https://github.com/scikit-learn-contrib/MAPIE) | [Add AUROC/AUARC uncertainty metrics](writeups/upstream/mapie-953.md) | Statistical APIs, validation, documentation and review iteration | Merged |
 | [NeuralForecast](https://github.com/Nixtla/neuralforecast) | [Implement FreDF loss](writeups/upstream/neuralforecast-1563.md) | Frequency-domain loss implementation and regression tests | Merged |
 | [Briefcase](https://github.com/beeware/briefcase) | [Harden GitHub Actions and enable zizmor](writeups/upstream/briefcase-2939.md) | CI security, SHA pinning, least privilege and iterative debugging | Merged |
 | [NetworkX](https://github.com/networkx/networkx) | [Document PageRank tolerance caveat](writeups/upstream/networkx-8735.md) | Mathematical diagnosis and reviewer-driven scope reduction | Merged |
+| [Black](https://github.com/psf/black) | [Keep commented expressions together when the comment trails](writeups/upstream/black-5660.md) | Formatter internals, preview-style stability boundary and corpus-scale diff verification | Merged |
 
 ## Merged upstream engineering contributions
 
@@ -59,6 +61,14 @@ The engineering-repository star total remains the **historical October 9, 2026 (
 | networkx/networkx | [#8735](https://github.com/networkx/networkx/pull/8735) | 1 file, +6 | [Read](writeups/upstream/networkx-8735.md) |
 | koaning/scikit-lego | [#805](https://github.com/koaning/scikit-lego/pull/805) | 2 files, +5/−2 | [Read](writeups/upstream/scikit-lego-805.md) |
 | Nixtla/neuralforecast | [#1563](https://github.com/Nixtla/neuralforecast/pull/1563) | 2 files, +121/−1 | [Read](writeups/upstream/neuralforecast-1563.md) |
+| SALib/SALib | [#716](https://github.com/SALib/SALib/pull/716) | 9 files, +212/−44 | [Read](writeups/upstream/salib-716.md) |
+| SALib/SALib | [#694](https://github.com/SALib/SALib/pull/694) | 4 files, +278/−16 | [Read](writeups/upstream/salib-694.md) |
+| e2nIEE/pandapower | [#3291](https://github.com/e2nIEE/pandapower/pull/3291) | 7 files, +238/−18 | [Read](writeups/upstream/pandapower-3291.md) |
+| e2nIEE/pandapower | [#3351](https://github.com/e2nIEE/pandapower/pull/3351) | 7 files, +268/−35 | [Read](writeups/upstream/pandapower-3351.md) |
+| bashtage/linearmodels | [#862](https://github.com/bashtage/linearmodels/pull/862) | 2 files, +213/−3 | [Read](writeups/upstream/linearmodels-862.md) |
+| hgrecco/pint | [#2551](https://github.com/hgrecco/pint/pull/2551) | 3 files, +24/−1 | [Read](writeups/upstream/pint-2551.md) |
+| psf/black | [#5660](https://github.com/psf/black/pull/5660) | 4 files, +103/−9 | [Read](writeups/upstream/black-5660.md) |
+| tornadoweb/tornado | [#3855](https://github.com/tornadoweb/tornado/pull/3855) | 2 files, +67/−0 | [Read](writeups/upstream/tornado-3855.md) |
 
 ## Curated-resource inclusion
 
@@ -66,7 +76,7 @@ The engineering-repository star total remains the **historical October 9, 2026 (
 | --- | --- | --- |
 | wilsonfreitas/awesome-quant | [#735](https://github.com/wilsonfreitas/awesome-quant/pull/735) | EPSILON's Assumption Clinic included under “Reproducing Works, Training & Books”; [evidence record](writeups/resources/awesome-quant-735.md) |
 
-This is independent directory inclusion, not an engineering-code contribution, evidence of learner adoption, or validation of trading performance. It is excluded from the 21 engineering merges and their repository-reach metrics.
+This is independent directory inclusion, not an engineering-code contribution, evidence of learner adoption, or validation of trading performance. It is excluded from the 29 engineering merges and their repository-reach metrics.
 
 ## Project engineering
 
@@ -82,15 +92,16 @@ These merged pull requests belong to a project repository under direct control, 
 
 ## Active pipeline
 
-Open work is not counted as a merged outcome. These states were verified on **October 21, 2026 (UTC)**. Reported CI refers to the current PR head's available status and pull-request workflow records, not a fresh local run or a guarantee of compatibility with today's base branch.
+Open work is not counted as a merged outcome. These states were verified on **October 21, 2026 (UTC)**, except where noted. Reported CI refers to the current PR head's available status and pull-request workflow records, not a fresh local run or a guarantee of compatibility with today's base branch.
 
 | Repository | PR | Current state |
 | --- | --- | --- |
-| SALib/SALib | [#694](https://github.com/SALib/SALib/pull/694) | Open; review revisions and changelog are on head ce17f6a; Test, Linting and ReadTheDocs passing; awaiting maintainer re-review |
 | Nixtla/statsforecast | [#1240](https://github.com/Nixtla/statsforecast/pull/1240) | Open; AutoTheta configuration-preservation fix; available head workflows pass, but GitHub reports not mergeable against the current base; branch compatibility needs attention before review |
 | Nixtla/statsforecast | [#1239](https://github.com/Nixtla/statsforecast/pull/1239) | Open; MFLES fallback scale fix; available Lint, build-docs, CI and pytest runs pass; no human review yet |
 | sympy/sympy | [#30018](https://github.com/sympy/sympy/pull/30018) | Open; available head tests and documentation checks pass; historical feedback was answered, but GitHub reports not mergeable against the current base; branch compatibility needs attention |
 | PaddlePaddle/PaddleX | [#5190](https://github.com/PaddlePaddle/PaddleX/pull/5190) | Open; CLA passes; historical Python 3.8 Compatibility workflow reports failure with no jobs returned by the API; failure cause is unverified; no new human review |
+
+Update (November 22, 2026): SALib [#694](https://github.com/SALib/SALib/pull/694), listed in this pipeline on October 21 as awaiting maintainer re-review, was merged on **October 29, 2026** and now appears in the merged table above with its [writeup](writeups/upstream/salib-694.md).
 
 ### Other submitted work
 
